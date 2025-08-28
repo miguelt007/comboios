@@ -1,14 +1,25 @@
 [
   {
-    "Designação": "Maceda",
+    "Designação": "Espinho",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
     "Designação Linha": "Linha do Norte",
-    "Freguesia": "Maceda",
+    "Freguesia": "Espinho",
+    "Município": "Espinho",
+    "Distrito": "Aveiro",
+    "latitude": 41.0077,
+    "longitude": -8.6413
+  },
+  {
+    "Designação": "Esmoriz",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Esmoriz",
     "Município": "Ovar",
     "Distrito": "Aveiro",
-    "latitude": 40.92511,
-    "longitude": -8.62617
+    "latitude": 40.9525,
+    "longitude": -8.6278
   },
   {
     "Designação": "Ovar",
@@ -18,8 +29,8 @@
     "Freguesia": "Ovar",
     "Município": "Ovar",
     "Distrito": "Aveiro",
-    "latitude": 40.86194,
-    "longitude": -8.62556
+    "latitude": 40.8619,
+    "longitude": -8.6256
   },
   {
     "Designação": "Estarreja",
@@ -29,7 +40,7 @@
     "Freguesia": "Estarreja",
     "Município": "Estarreja",
     "Distrito": "Aveiro",
-    "latitude": 40.75028,
+    "latitude": 40.7503,
     "longitude": -8.5725
   },
   {
@@ -40,8 +51,8 @@
     "Freguesia": "Cacia",
     "Município": "Aveiro",
     "Distrito": "Aveiro",
-    "latitude": 40.67083,
-    "longitude": -8.59194
+    "latitude": 40.6708,
+    "longitude": -8.5919
   },
   {
     "Designação": "Aveiro",
@@ -55,70 +66,26 @@
     "longitude": -8.6538
   },
   {
-    "Designação": "Oliveirinha",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Oliveirinha",
-    "Município": "Aveiro",
-    "Distrito": "Aveiro",
-    "latitude": 40.6267,
-    "longitude": -8.6411
-  },
-  {
-    "Designação": "Eixo",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Eixo e Eirol",
-    "Município": "Aveiro",
-    "Distrito": "Aveiro",
-    "latitude": 40.6119,
-    "longitude": -8.6419
-  },
-  {
-    "Designação": "Albergaria-a-Velha",
+    "Designação": "Sernada do Vouga",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
     "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Albergaria-a-Velha",
-    "Município": "Albergaria-a-Velha",
+    "Freguesia": "Macinhata do Vouga",
+    "Município": "Águeda",
     "Distrito": "Aveiro",
-    "latitude": 40.6903,
-    "longitude": -8.4794
+    "latitude": 40.6264,
+    "longitude": -8.4703
   },
   {
-    "Designação": "Valmaior",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Valmaior",
-    "Município": "Albergaria-a-Velha",
-    "Distrito": "Aveiro",
-    "latitude": 40.7036,
-    "longitude": -8.4567
-  },
-  {
-    "Designação": "Branca",
+    "Designação": "Águeda",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
     "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Branca",
-    "Município": "Albergaria-a-Velha",
+    "Freguesia": "Águeda",
+    "Município": "Águeda",
     "Distrito": "Aveiro",
-    "latitude": 40.7333,
-    "longitude": -8.4439
-  },
-  {
-    "Designação": "Santiago de Riba-Ul",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Santiago de Riba-Ul",
-    "Município": "Oliveira de Azeméis",
-    "Distrito": "Aveiro",
-    "latitude": 40.7331,
-    "longitude": -8.4786
+    "latitude": 40.5775,
+    "longitude": -8.4442
   },
   {
     "Designação": "Oliveira de Azeméis",
@@ -132,50 +99,6 @@
     "longitude": -8.4783
   },
   {
-    "Designação": "Travanca",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Travanca",
-    "Município": "Oliveira de Azeméis",
-    "Distrito": "Aveiro",
-    "latitude": 40.8592,
-    "longitude": -8.4569
-  },
-  {
-    "Designação": "Pinheiro da Bemposta",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Pinheiro da Bemposta",
-    "Município": "Oliveira de Azeméis",
-    "Distrito": "Aveiro",
-    "latitude": 40.8736,
-    "longitude": -8.4531
-  },
-  {
-    "Designação": "Carregosa",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Carregosa",
-    "Município": "Oliveira de Azeméis",
-    "Distrito": "Aveiro",
-    "latitude": 40.8872,
-    "longitude": -8.4464
-  },
-  {
-    "Designação": "Cucujães",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Cucujães",
-    "Município": "Oliveira de Azeméis",
-    "Distrito": "Aveiro",
-    "latitude": 40.9114,
-    "longitude": -8.4306
-  },
-  {
     "Designação": "São João da Madeira",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
@@ -187,83 +110,6 @@
     "longitude": -8.4997
   },
   {
-    "Designação": "Arrifana",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Vouga",
-    "Freguesia": "Arrifana",
-    "Município": "Santa Maria da Feira",
-    "Distrito": "Aveiro",
-    "latitude": 40.9333,
-    "longitude": -8.5092
-  },
-  {
-    "Designação": "Cortegaça",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Cortegaça",
-    "Município": "Ovar",
-    "Distrito": "Aveiro",
-    "latitude": 40.9336,
-    "longitude": -8.6214
-  },
-  {
-    "Designação": "Espinho",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Espinho",
-    "Município": "Espinho",
-    "Distrito": "Aveiro",
-    "latitude": 41.0076,
-    "longitude": -8.6411
-  },
-  {
-    "Designação": "Granja",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Granja",
-    "Município": "Vila Nova de Gaia",
-    "Distrito": "Porto",
-    "latitude": 41.0431,
-    "longitude": -8.6553
-  },
-  {
-    "Designação": "Vila Nova de Gaia",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Santa Marinha e São Pedro da Afurada",
-    "Município": "Vila Nova de Gaia",
-    "Distrito": "Porto",
-    "latitude": 41.1333,
-    "longitude": -8.6167
-  },
-  {
-    "Designação": "General Torres",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Santa Marinha e São Pedro da Afurada",
-    "Município": "Vila Nova de Gaia",
-    "Distrito": "Porto",
-    "latitude": 41.1339,
-    "longitude": -8.6103
-  },
-  {
-    "Designação": "Porto - Campanhã",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Campanhã",
-    "Município": "Porto",
-    "Distrito": "Porto",
-    "latitude": 41.1503,
-    "longitude": -8.5831
-  },
-  {
     "Designação": "Porto - São Bento",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
@@ -273,6 +119,17 @@
     "Distrito": "Porto",
     "latitude": 41.1456,
     "longitude": -8.6109
+  },
+  {
+    "Designação": "Campanhã",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Campanhã",
+    "Município": "Porto",
+    "Distrito": "Porto",
+    "latitude": 41.1503,
+    "longitude": -8.5831
   },
   {
     "Designação": "Ermesinde",
@@ -341,39 +198,6 @@
     "longitude": -8.8329
   },
   {
-    "Designação": "Darque",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Minho",
-    "Freguesia": "Darque",
-    "Município": "Viana do Castelo",
-    "Distrito": "Viana do Castelo",
-    "latitude": 41.6833,
-    "longitude": -8.8236
-  },
-  {
-    "Designação": "Barroselas",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Minho",
-    "Freguesia": "Barroselas",
-    "Município": "Viana do Castelo",
-    "Distrito": "Viana do Castelo",
-    "latitude": 41.6667,
-    "longitude": -8.7167
-  },
-  {
-    "Designação": "Ponte de Lima",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Lima",
-    "Freguesia": "Arca e Ponte de Lima",
-    "Município": "Ponte de Lima",
-    "Distrito": "Viana do Castelo",
-    "latitude": 41.7672,
-    "longitude": -8.5833
-  },
-  {
     "Designação": "Valença",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
@@ -385,50 +209,6 @@
     "longitude": -8.6333
   },
   {
-    "Designação": "Monção",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Minho",
-    "Freguesia": "Monção e Troviscoso",
-    "Município": "Monção",
-    "Distrito": "Viana do Castelo",
-    "latitude": 42.0781,
-    "longitude": -8.4814
-  },
-  {
-    "Designação": "Melgaço",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Minho",
-    "Freguesia": "Vila",
-    "Município": "Melgaço",
-    "Distrito": "Viana do Castelo",
-    "latitude": 42.1136,
-    "longitude": -8.2608
-  },
-  {
-    "Designação": "Valença Fronteira",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Minho",
-    "Freguesia": "Cristelo Covo e Arão",
-    "Município": "Valença",
-    "Distrito": "Viana do Castelo",
-    "latitude": 42.0339,
-    "longitude": -8.6417
-  },
-  {
-    "Designação": "Vila Real",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Corgo",
-    "Freguesia": "Vila Real",
-    "Município": "Vila Real",
-    "Distrito": "Vila Real",
-    "latitude": 41.2956,
-    "longitude": -7.7461
-  },
-  {
     "Designação": "Peso da Régua",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
@@ -438,28 +218,39 @@
     "Distrito": "Vila Real",
     "latitude": 41.1603,
     "longitude": -7.7892
-  },
+  }, 
   {
-    "Designação": "Guarda",
+    "Designação": "Pampilhosa",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
     "Designação Linha": "Linha da Beira Alta",
-    "Freguesia": "Guarda",
-    "Município": "Guarda",
-    "Distrito": "Guarda",
-    "latitude": 40.5373,
-    "longitude": -7.2675
+    "Freguesia": "Pampilhosa",
+    "Município": "Mealhada",
+    "Distrito": "Aveiro",
+    "latitude": 40.3836,
+    "longitude": -8.4464
   },
   {
-    "Designação": "Celorico da Beira",
+    "Designação": "Mortágua",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
     "Designação Linha": "Linha da Beira Alta",
-    "Freguesia": "Celorico da Beira",
-    "Município": "Celorico da Beira",
-    "Distrito": "Guarda",
-    "latitude": 40.6353,
-    "longitude": -7.3892
+    "Freguesia": "Mortágua",
+    "Município": "Mortágua",
+    "Distrito": "Viseu",
+    "latitude": 40.3953,
+    "longitude": -8.1408
+  },
+  {
+    "Designação": "Santa Comba Dão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Santa Comba Dão",
+    "Município": "Santa Comba Dão",
+    "Distrito": "Viseu",
+    "latitude": 40.3986,
+    "longitude": -8.135
   },
   {
     "Designação": "Mangualde",
@@ -473,26 +264,59 @@
     "longitude": -7.7636
   },
   {
-    "Designação": "Viseu",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Dão",
-    "Freguesia": "Coração de Jesus",
-    "Município": "Viseu",
-    "Distrito": "Viseu",
-    "latitude": 40.661,
-    "longitude": -7.9097
-  },
-  {
-    "Designação": "Santa Comba Dão",
+    "Designação": "Celorico da Beira",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
     "Designação Linha": "Linha da Beira Alta",
-    "Freguesia": "Santa Comba Dão",
-    "Município": "Santa Comba Dão",
-    "Distrito": "Viseu",
-    "latitude": 40.3986,
-    "longitude": -8.135
+    "Freguesia": "Celorico da Beira",
+    "Município": "Celorico da Beira",
+    "Distrito": "Guarda",
+    "latitude": 40.6353,
+    "longitude": -7.3892
+  },
+  {
+    "Designação": "Guarda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Guarda",
+    "Município": "Guarda",
+    "Distrito": "Guarda",
+    "latitude": 40.5373,
+    "longitude": -7.2675
+  },
+  {
+    "Designação": "Castelo Branco",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Castelo Branco",
+    "Município": "Castelo Branco",
+    "Distrito": "Castelo Branco",
+    "latitude": 39.8167,
+    "longitude": -7.5
+  },
+  {
+    "Designação": "Alferrarede",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Alferrarede",
+    "Município": "Abrantes",
+    "Distrito": "Santarém",
+    "latitude": 39.4833,
+    "longitude": -8.2
+  },
+  {
+    "Designação": "Abrantes",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "São Vicente",
+    "Município": "Abrantes",
+    "Distrito": "Santarém",
+    "latitude": 39.4667,
+    "longitude": -8.1833
   },
   {
     "Designação": "Lisboa - Santa Apolónia",
@@ -528,17 +352,6 @@
     "longitude": -9.1486
   },
   {
-    "Designação": "Roma-Areeiro",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha de Cintura",
-    "Freguesia": "Areeiro",
-    "Município": "Lisboa",
-    "Distrito": "Lisboa",
-    "latitude": 38.7411,
-    "longitude": -9.1344
-  },
-  {
     "Designação": "Alcântara-Terra",
     "Estado": "Com Exploração",
     "Desiggrupo": "Estação",
@@ -559,17 +372,6 @@
     "Distrito": "Lisboa",
     "latitude": 38.7069,
     "longitude": -9.1444
-  },
-  {
-    "Designação": "Sete Rios",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha de Cintura",
-    "Freguesia": "Campolide",
-    "Município": "Lisboa",
-    "Distrito": "Lisboa",
-    "latitude": 38.7386,
-    "longitude": -9.1661
   },
   {
     "Designação": "Benfica",
@@ -603,6 +405,28 @@
     "Distrito": "Lisboa",
     "latitude": 38.7986,
     "longitude": -9.3861
+  },
+  {
+    "Designação": "Vila Franca de Xira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vila Franca de Xira",
+    "Município": "Vila Franca de Xira",
+    "Distrito": "Lisboa",
+    "latitude": 38.9553,
+    "longitude": -8.9892
+  },
+  {
+    "Designação": "Azambuja",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Azambuja",
+    "Município": "Azambuja",
+    "Distrito": "Lisboa",
+    "latitude": 39.0708,
+    "longitude": -8.8689
   },
   {
     "Designação": "Casa Branca",
@@ -713,116 +537,6 @@
     "Distrito": "Faro",
     "latitude": 37.1953,
     "longitude": -7.4172
-  },
-  {
-    "Designação": "Santarém",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Santarém",
-    "Município": "Santarém",
-    "Distrito": "Santarém",
-    "latitude": 39.2333,
-    "longitude": -8.6833
-  },
-  {
-    "Designação": "Vale de Santarém",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Vale de Santarém",
-    "Município": "Santarém",
-    "Distrito": "Santarém",
-    "latitude": 39.2667,
-    "longitude": -8.6833
-  },
-  {
-    "Designação": "Entroncamento",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Entroncamento",
-    "Município": "Entroncamento",
-    "Distrito": "Santarém",
-    "latitude": 39.4667,
-    "longitude": -8.4667
-  },
-  {
-    "Designação": "Alferrarede",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha da Beira Baixa",
-    "Freguesia": "Alferrarede",
-    "Município": "Abrantes",
-    "Distrito": "Santarém",
-    "latitude": 39.4833,
-    "longitude": -8.2
-  },
-  {
-    "Designação": "Abrantes",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha da Beira Baixa",
-    "Freguesia": "São Vicente",
-    "Município": "Abrantes",
-    "Distrito": "Santarém",
-    "latitude": 39.4667,
-    "longitude": -8.1833
-  },
-  {
-    "Designação": "Castelo Branco",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha da Beira Baixa",
-    "Freguesia": "Castelo Branco",
-    "Município": "Castelo Branco",
-    "Distrito": "Castelo Branco",
-    "latitude": 39.8167,
-    "longitude": -7.5
-  },
-  {
-    "Designação": "Coimbra-B",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "Santa Clara e Castelo Viegas",
-    "Município": "Coimbra",
-    "Distrito": "Coimbra",
-    "latitude": 40.2003,
-    "longitude": -8.4333
-  },
-  {
-    "Designação": "Coimbra",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Norte",
-    "Freguesia": "União de Freguesias de Coimbra",
-    "Município": "Coimbra",
-    "Distrito": "Coimbra",
-    "latitude": 40.2056,
-    "longitude": -8.4192
-  },
-  {
-    "Designação": "Serpins",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha da Lousã",
-    "Freguesia": "Serpins",
-    "Município": "Lousã",
-    "Distrito": "Coimbra",
-    "latitude": 40.1503,
-    "longitude": -8.3167
-  },
-  {
-    "Designação": "Lousã",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha da Lousã",
-    "Freguesia": "Lousã e Vilarinho",
-    "Município": "Lousã",
-    "Distrito": "Coimbra",
-    "latitude": 40.1125,
-    "longitude": -8.25
   },
   {
     "Designação": "Figueira da Foz",

@@ -38,33 +38,23 @@
   // Camada para os marcadores
   var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Marcador fixo de teste (sempre aparece)
-  var testMarker = L.marker([39.5, -8], { 
-    icon: L.divIcon({
-      className: 'train-icon',
-      html: '<div style="width:8px; height:8px; background:red;"></div>',
-      iconSize: [8, 8],
-      iconAnchor: [4, 4],
-      popupAnchor: [0, -4]
-    })
-  }).addTo(stationsLayerGroup).bindPopup('Estação teste');
-
-  // Carregar estações (cria marcadores manualmente usando coordenadas)
+  // Carregar estações
   fetch('estacoes-ferroviarias.geojson')
     .then(res => res.json())
     .then(data => {
       data.features.forEach(feature => {
         let latlng;
 
-        // Pega primeiro ponto de qualquer geometria
-        if(feature.geometry.type === 'Point') {
+        // Detecta o tipo de geometria e pega primeiro ponto
+        if (feature.geometry.type === 'Point') {
           latlng = [feature.geometry.coordinates[1], feature.geometry.coordinates[0]];
-        } else if(feature.geometry.type === 'LineString' || feature.geometry.type === 'Polygon') {
-          const coords = feature.geometry.coordinates[0];
-          latlng = [coords[1], coords[0]];
+        } else if (feature.geometry.type === 'LineString') {
+          latlng = [feature.geometry.coordinates[0][1], feature.geometry.coordinates[0][0]];
+        } else if (feature.geometry.type === 'Polygon') {
+          latlng = [feature.geometry.coordinates[0][0][1], feature.geometry.coordinates[0][0][0]];
         }
 
-        if(latlng) {
+        if (latlng) {
           L.marker(latlng, {
             icon: L.divIcon({
               className: 'train-icon',
@@ -78,7 +68,7 @@
         }
       });
 
-      // Pesquisa
+      // Adicionar pesquisa
       var searchControl = new L.Control.Search({
         layer: stationsLayerGroup,
         propertyName: 'name',

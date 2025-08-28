@@ -35,13 +35,13 @@
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  // Ícone simples de comboio (PNG)
+  // Ícone de comboio local
   var trainIcon = L.icon({
-  iconUrl: '/train.png',  // caminho local
-  iconSize: [30, 30],
-  iconAnchor: [15, 30],
-  popupAnchor: [0, -30]
-});
+    iconUrl: 'train.png',  // ícone local na mesma pasta do index.html
+    iconSize: [30, 30],
+    iconAnchor: [15, 30],
+    popupAnchor: [0, -30]
+  });
 
   // Carregar estações
   fetch('estacoes-ferroviarias.geojson')

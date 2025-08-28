@@ -17,10 +17,6 @@
       font-family: Arial, sans-serif;
     }
     #map { flex: 1; }
-    /* Opcional: classe para os quadrados */
-    .train-icon div {
-      border: 1px solid black;
-    }
   </style>
 </head>
 <body>
@@ -39,34 +35,34 @@
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  // Ícone quadrado pequeno para estações
-  // Teste: marcador manual para garantir que o ícone aparece
-L.marker([39.5, -8], { 
-  icon: L.divIcon({
-    className: 'train-icon',
-    html: '<div style="width:12px; height:12px; background:red;"></div>',
-    iconSize: [12, 12],
-    iconAnchor: [6, 6],
-    popupAnchor: [0, -6]
-  })
-}).addTo(map).bindPopup('Estação teste');
+  // Camada para os marcadores
+  var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Carregar estações
+  // Carregar estações manualmente (mesmo que não sejam pontos)
   fetch('estacoes-ferroviarias.geojson')
     .then(res => res.json())
     .then(data => {
-      var stationsLayer = L.geoJSON(data, {
-        pointToLayer: function(feature, latlng) {
-          return L.marker(latlng, {icon: trainIcon});
-        },
-        onEachFeature: function(feature, layer) {
-          layer.bindPopup(feature.properties.name);
-        }
-      }).addTo(map);
+      data.features.forEach(feature => {
+        // Pegar coordenadas do primeiro ponto (lng, lat)
+        const coords = feature.geometry.coordinates;
+        const latlng = [coords[1], coords[0]];
 
-      // Adicionar pesquisa
+        var marker = L.marker(latlng, { 
+          icon: L.divIcon({
+            className: 'train-icon',
+            html: '<div style="width:12px; height:12px; background:red;"></div>',
+            iconSize: [12, 12],
+            iconAnchor: [6, 6],
+            popupAnchor: [0, -6]
+          })
+        }).addTo(stationsLayerGroup)
+          .bindPopup(feature.properties.name);
+
+      });
+
+      // Adicionar pesquisa sobre o layer group
       var searchControl = new L.Control.Search({
-        layer: stationsLayer,
+        layer: stationsLayerGroup,
         propertyName: 'name',
         marker: false,
         moveToLocation: function(latlng, title, map) {
@@ -77,7 +73,7 @@ L.marker([39.5, -8], {
     })
     .catch(err => console.error('Erro a carregar estacoes:', err));
 
-  // Linhas ferroviárias (um bloco)
+  // Linhas ferroviárias
   fetch('linhas-ferroviarias.geojson')
     .then(res => res.json())
     .then(data => {

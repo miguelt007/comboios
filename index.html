@@ -17,6 +17,9 @@
       font-family: Arial, sans-serif;
     }
     #map { flex: 1; }
+    .train-icon div {
+      border: 1px solid black;
+    }
   </style>
 </head>
 <body>
@@ -38,29 +41,38 @@
   // Camada para os marcadores
   var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Carregar estações manualmente (mesmo que não sejam pontos)
+  // Carregar estações, garantindo que o marcador aparece mesmo se não for Point
   fetch('estacoes-ferroviarias.geojson')
     .then(res => res.json())
     .then(data => {
       data.features.forEach(feature => {
-        // Pegar coordenadas do primeiro ponto (lng, lat)
-        const coords = feature.geometry.coordinates;
-        const latlng = [coords[1], coords[0]];
+        let latlng;
 
-        var marker = L.marker(latlng, { 
-          icon: L.divIcon({
-            className: 'train-icon',
-            html: '<div style="width:12px; height:12px; background:red;"></div>',
-            iconSize: [12, 12],
-            iconAnchor: [6, 6],
-            popupAnchor: [0, -6]
-          })
-        }).addTo(stationsLayerGroup)
-          .bindPopup(feature.properties.name);
+        // Ponto direto
+        if(feature.geometry.type === 'Point') {
+          latlng = [feature.geometry.coordinates[1], feature.geometry.coordinates[0]];
+        } 
+        // Linha ou polígono: pega o primeiro ponto
+        else if(feature.geometry.type === 'LineString' || feature.geometry.type === 'Polygon') {
+          const coords = feature.geometry.coordinates[0];
+          latlng = [coords[1], coords[0]];
+        }
 
+        if(latlng) {
+          L.marker(latlng, { 
+            icon: L.divIcon({
+              className: 'train-icon',
+              html: '<div style="width:12px; height:12px; background:red;"></div>',
+              iconSize: [12, 12],
+              iconAnchor: [6, 6],
+              popupAnchor: [0, -6]
+            })
+          }).addTo(stationsLayerGroup)
+            .bindPopup(feature.properties.name);
+        }
       });
 
-      // Adicionar pesquisa sobre o layer group
+      // Pesquisa
       var searchControl = new L.Control.Search({
         layer: stationsLayerGroup,
         propertyName: 'name',

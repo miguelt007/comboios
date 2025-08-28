@@ -40,13 +40,16 @@
   }).addTo(map);
 
   // Ícone quadrado pequeno para estações
-  var trainIcon = L.divIcon({
+  // Teste: marcador manual para garantir que o ícone aparece
+L.marker([39.5, -8], { 
+  icon: L.divIcon({
     className: 'train-icon',
     html: '<div style="width:12px; height:12px; background:red;"></div>',
     iconSize: [12, 12],
     iconAnchor: [6, 6],
     popupAnchor: [0, -6]
-  });
+  })
+}).addTo(map).bindPopup('Estação teste');
 
   // Carregar estações
   fetch('estacoes-ferroviarias.geojson')

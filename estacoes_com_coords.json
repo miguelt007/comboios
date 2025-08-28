@@ -1,58 +1,104 @@
 [
   {
-    "Designação": "Lisboa - Santa Apolónia",
+    "Designação": "Cais do Sodré",
     "Desiggrupo": "Estação",
-    "Estado": "Com Exploração",
-    "latitude": 38.7169,
-    "longitude": -9.1231
+    "latitude": 38.7069,
+    "longitude": -9.1446
   },
   {
-    "Designação": "Lisboa - Oriente",
-    "Desiggrupo": "Estação",
-    "Estado": "Com Exploração",
-    "latitude": 38.7676,
-    "longitude": -9.0992
-  },
-  {
-    "Designação": "Sacavém",
+    "Designação": "Santos",
     "Desiggrupo": "Apeadeiro",
-    "Estado": "Com Exploração",
-    "latitude": 38.7939,
-    "longitude": -9.1023
+    "latitude": 38.7076,
+    "longitude": -9.1536
   },
   {
-    "Designação": "Bobadela",
+    "Designação": "Alcântara-Mar",
     "Desiggrupo": "Estação",
-    "Estado": "Com Exploração",
-    "latitude": 38.8136,
-    "longitude": -9.0961
+    "latitude": 38.7033,
+    "longitude": -9.1653
   },
   {
-    "Designação": "Santa Iria",
+    "Designação": "Belém",
+    "Desiggrupo": "Estação",
+    "latitude": 38.6956,
+    "longitude": -9.2061
+  },
+  {
+    "Designação": "Pedrouços",
     "Desiggrupo": "Apeadeiro",
-    "Estado": "Com Exploração",
-    "latitude": 38.8325,
-    "longitude": -9.0836
+    "latitude": 38.6933,
+    "longitude": -9.2172
   },
   {
-    "Designação": "Póvoa",
+    "Designação": "Algés",
+    "Desiggrupo": "Estação",
+    "latitude": 38.6950,
+    "longitude": -9.2294
+  },
+  {
+    "Designação": "Cruz Quebrada",
+    "Desiggrupo": "Estação",
+    "latitude": 38.7003,
+    "longitude": -9.2417
+  },
+  {
+    "Designação": "Caxias",
+    "Desiggrupo": "Estação",
+    "latitude": 38.6956,
+    "longitude": -9.2606
+  },
+  {
+    "Designação": "Paço de Arcos",
+    "Desiggrupo": "Estação",
+    "latitude": 38.6933,
+    "longitude": -9.2731
+  },
+  {
+    "Designação": "Santo Amaro",
     "Desiggrupo": "Apeadeiro",
-    "Estado": "Com Exploração",
-    "latitude": 38.8474,
-    "longitude": -9.0622
+    "latitude": 38.6911,
+    "longitude": -9.2853
   },
   {
-    "Designação": "Alverca",
+    "Designação": "Oeiras",
     "Desiggrupo": "Estação",
-    "Estado": "Com Exploração",
-    "latitude": 38.9003,
-    "longitude": -9.0381
+    "latitude": 38.6903,
+    "longitude": -9.2972
   },
   {
-    "Designação": "Vila Franca de Xira",
+    "Designação": "São Julião da Barra",
+    "Desiggrupo": "Apeadeiro",
+    "latitude": 38.6911,
+    "longitude": -9.3094
+  },
+  {
+    "Designação": "Carcavelos",
     "Desiggrupo": "Estação",
-    "Estado": "Com Exploração",
-    "latitude": 38.9552,
-    "longitude": -8.9894
+    "latitude": 38.6917,
+    "longitude": -9.3206
+  },
+  {
+    "Designação": "Parede",
+    "Desiggrupo": "Estação",
+    "latitude": 38.6933,
+    "longitude": -9.3342
+  },
+  {
+    "Designação": "São Pedro do Estoril",
+    "Desiggrupo": "Estação",
+    "latitude": 38.6950,
+    "longitude": -9.3478
+  },
+  {
+    "Designação": "Estoril",
+    "Desiggrupo": "Estação",
+    "latitude": 38.6972,
+    "longitude": -9.3672
+  },
+  {
+    "Designação": "Cascais",
+    "Desiggrupo": "Estação",
+    "latitude": 38.7008,
+    "longitude": -9.4184
   }
 ]

@@ -493,27 +493,5 @@
     "Distrito": "Viseu",
     "latitude": 40.3986,
     "longitude": -8.135
-  },
-  {
-    "Designação": "Estação Nova",
-    "Estado": "Com Exploração",
-    "Desiggrupo": "Estação",
-    "Designação Linha": "Linha do Oeste",
-    "Freguesia": "Desconhecida",
-    "Município": "Desconhecido",
-    "Distrito": "Desconhecido",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "Designação": "Apeadeiro Velho",
-    "Estado": "Sem Exploração",
-    "Desiggrupo": "Apeadeiro",
-    "Designação Linha": "Linha do Tua",
-    "Freguesia": "Sem Informação",
-    "Município": "Sem Informação",
-    "Distrito": "Sem Informação",
-    "latitude": null,
-    "longitude": null
   }
 ]

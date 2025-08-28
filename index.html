@@ -8,14 +8,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet-search/dist/leaflet-search.min.css" />
   <style>
     body, html { margin: 0; padding: 0; height: 100%; display: flex; flex-direction: column; }
-    header {
-      background: #005b96;
-      color: white;
-      text-align: center;
-      padding: 1rem;
-      font-size: 1.5rem;
-      font-family: Arial, sans-serif;
-    }
+    header { background: #005b96; color: white; text-align: center; padding: 1rem; font-size: 1.5rem; font-family: Arial, sans-serif; }
     #map { flex: 1; }
   </style>
 </head>
@@ -35,8 +28,20 @@
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  // Camada para os marcadores
   var stationsLayerGroup = L.layerGroup().addTo(map);
+
+  // Função para criar marcador quadrado pequeno
+  function createMarker(latlng, name) {
+    return L.marker(latlng, {
+      icon: L.divIcon({
+        className: 'train-icon',
+        html: '<div style="width:8px; height:8px; background:red;"></div>',
+        iconSize: [8, 8],
+        iconAnchor: [4, 4],
+        popupAnchor: [0, -4]
+      })
+    }).bindPopup(name).addTo(stationsLayerGroup);
+  }
 
   // Carregar estações
   fetch('estacoes-ferroviarias.geojson')
@@ -45,7 +50,6 @@
       data.features.forEach(feature => {
         let latlng;
 
-        // Detecta o tipo de geometria e pega primeiro ponto
         if (feature.geometry.type === 'Point') {
           latlng = [feature.geometry.coordinates[1], feature.geometry.coordinates[0]];
         } else if (feature.geometry.type === 'LineString') {
@@ -54,21 +58,11 @@
           latlng = [feature.geometry.coordinates[0][0][1], feature.geometry.coordinates[0][0][0]];
         }
 
-        if (latlng) {
-          L.marker(latlng, {
-            icon: L.divIcon({
-              className: 'train-icon',
-              html: '<div style="width:8px; height:8px; background:red;"></div>',
-              iconSize: [8, 8],
-              iconAnchor: [4, 4],
-              popupAnchor: [0, -4]
-            })
-          }).addTo(stationsLayerGroup)
-            .bindPopup(feature.properties.name);
+        if(latlng) {
+          createMarker(latlng, feature.properties.name);
         }
       });
 
-      // Adicionar pesquisa
       var searchControl = new L.Control.Search({
         layer: stationsLayerGroup,
         propertyName: 'name',

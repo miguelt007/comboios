@@ -1,0 +1,5105 @@
+[
+  {
+    "Designação": "Maceda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Maceda",
+    "Município": "OVAR",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Tadim",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Tadim",
+    "Município": "BRAGA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Portimão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Portimão",
+    "Município": "PORTIMÃO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Paraimo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Sangalhos",
+    "Município": "ANADIA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Gaia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santa Marinha e São Pedro da Afurada",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Curia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Tamengos, Aguim e Óis do Bairro",
+    "Município": "ANADIA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Pero Negro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Sapataria",
+    "Município": "SOBRAL DE MONTE AGRAÇO",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Vila Franca das Naves",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Vila Franca das Naves e Feital",
+    "Município": "TRANCOSO",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Areosa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Areosa",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Mazagão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Celeirós, Aveleda e Vimieiro",
+    "Município": "BRAGA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Garvão ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Garvão e Santa Luzia",
+    "Município": "OURIQUE",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Livramento",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Luz de Tavira e Santo Estêvão",
+    "Município": "TAVIRA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Parque das Cidades",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Almancil",
+    "Município": "LOULÉ",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Reguengo - Vale da Pedra - Pontével",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vale da Pedra",
+    "Município": "CARTAXO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Reboleira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Águas Livres",
+    "Município": "AMADORA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Estoril",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Cascais e Estoril",
+    "Município": "CASCAIS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "São Marcos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "São Marcos da Serra",
+    "Município": "SILVES",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Recezinhos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Castelões",
+    "Município": "PENAFIEL",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Feliteira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Dois Portos e Runa",
+    "Município": "TORRES VEDRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "São Romão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Coronado (São Romão e São Mamede)",
+    "Município": "TROFA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Oliveirinha Cabanas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Oliveira do Conde",
+    "Município": "CARREGAL DO SAL",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Vidigal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Vendas Novas",
+    "Município": "VENDAS NOVAS",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Tamel",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Aborim",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Lisboa Rossio",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Santa Maria Maior",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Senhora das Dores",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Bougado (São Martinho e Santiago)",
+    "Município": "TROFA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Livração",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Constance",
+    "Município": "MARCO DE CANAVESES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Castelo Mendo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Castelo Mendo, Ade, Monteperobolso e Mesquitela",
+    "Município": "ALMEIDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Alverca",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Alverca do Ribatejo e Sobralinho",
+    "Município": "VILA FRANCA DE XIRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Monte Gordo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Monte Gordo",
+    "Município": "VILA REAL DE SANTO ANTÓNIO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Almancil",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Almancil",
+    "Município": "LOULÉ",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Suzão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Valongo",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Alcáçovas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "N. S. da Tourega e N. S. de Guadalupe",
+    "Município": "ÉVORA",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Francelos Sul",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Gulpilhares e Valadares",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Setil",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vale da Pedra",
+    "Município": "CARTAXO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Gata",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Casal de Cinza",
+    "Município": "GUARDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Elvas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Caia, São Pedro e Alcáçova",
+    "Município": "ELVAS",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Porto Rei",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Barqueiros",
+    "Município": "MESÃO FRIO",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Oeiras",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",
+    "Município": "OEIRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Monte Novo-Palma",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Santa Maria do Castelo e Santiago e Santa Susana",
+    "Município": "ALCÁCER DO SAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Mourisca do Vouga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Trofa, Segadães e Lamas do Vouga",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Carapeços",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Carapeços",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Soalheira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Castelo Novo",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Ermesinde - A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Ermesinde",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Canha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Canha",
+    "Município": "MONTIJO",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Pereira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Pereira",
+    "Município": "MONTEMOR-O-VELHO",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Monte dos Lobos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Mortágua, Vale de Remígio, Cortegaça e Almaça",
+    "Município": "MORTÁGUA",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Ovar",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Ovar, S. João, Arada e S. Vicente de Pereira Jusã",
+    "Município": "OVAR",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Ferreiros",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Ferreiros e Gondizalves",
+    "Município": "BRAGA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Campolide ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Campolide",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Contenças",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Santiago de Cassurrães e Póvoa de Cervães",
+    "Município": "MANGUALDE",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Monte Real",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Souto da Carpalhosa e Ortigosa",
+    "Município": "LEIRIA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Mexilhoeira Grande",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Mexilhoeira Grande",
+    "Município": "PORTIMÃO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Campolide-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "Campolide",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Silves",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Silves",
+    "Município": "SILVES",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Carvalhal da Portela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Valongo do Vouga",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Massamá-Barcarena",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Barcarena",
+    "Município": "OEIRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Giesteira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Lordelo",
+    "Município": "GUIMARÃES",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Bustelo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Bustelo",
+    "Município": "PENAFIEL",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Portela de Sintra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "S. Maria, S. Miguel, S. Martinho e S. Pedro de Penaferrim",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Nelas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Nelas",
+    "Município": "NELAS",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Mata",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Chancelaria",
+    "Município": "ALTER DO CHÃO",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Alhos Vedros",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Alhos Vedros",
+    "Município": "MOITA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Senhora da Agonia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Caminha (Matriz) e Vilarelho",
+    "Município": "CAMINHA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Almourol",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Praia do Ribatejo",
+    "Município": "VILA NOVA DA BARQUINHA",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Parede",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Carcavelos e Parede",
+    "Município": "CASCAIS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Granja do Ulmeiro - Alfarelos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Granja do Ulmeiro",
+    "Município": "SOURE",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Lousado ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Lousado",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Albergaria-a-Nova",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Branca",
+    "Município": "ALBERGARIA-A-VELHA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Castanheira do Ribatejo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Castanheira do Ribatejo e Cachoeiras",
+    "Município": "VILA FRANCA DE XIRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Vila Meã",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Vila Meã",
+    "Município": "AMARANTE",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Sampaio-Oleiros",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "São Paio de Oleiros",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Dagorda - Peniche",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Santa Maria, São Pedro e Sobral da Lagoa",
+    "Município": "ÓBIDOS",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Corroios",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Corroios",
+    "Município": "SEIXAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Travagem",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Ermesinde",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Fanhais",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Nazaré",
+    "Município": "NAZARÉ",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Morgado",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Valada",
+    "Município": "CARTAXO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Castelo Novo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Castelo Novo",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Fontela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Vila Verde",
+    "Município": "FIGUEIRA DA FOZ",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Porto Campanhã",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Campanhã",
+    "Município": "PORTO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "São Torcato",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Coruche, Fajarda e Erra",
+    "Município": "CORUCHE",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Fontela-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Vila Verde",
+    "Município": "FIGUEIRA DA FOZ",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Estômbar-Lagoa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Estômbar e Parchal",
+    "Município": "LAGOA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Soudos - Vila Nova",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Tomar",
+    "Freguesia": "Paialvo",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Afife ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Afife",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Alvito-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Alcântara",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Runa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Dois Portos e Runa",
+    "Município": "TORRES VEDRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Bifurcação do Luso",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Luso",
+    "Município": "MEALHADA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Aldeia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Castelo Bom",
+    "Município": "ALMEIDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Oliveira de Azeméis",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "O. Azeméis, Riba-Ul, Ul, Macinhata da Seixa, Madail",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Carriço",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Carriço",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Foros de Amora",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Amora",
+    "Município": "SEIXAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Assumar",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Assumar",
+    "Município": "MONFORTE",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Salir do Porto",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Tornada e Salir do Porto",
+    "Município": "CALDAS DA RAINHA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Messines-Alte",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "São Bartolomeu de Messines",
+    "Município": "SILVES",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Tancos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Praia do Ribatejo",
+    "Município": "VILA NOVA DA BARQUINHA",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Pinhão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Pinhão",
+    "Município": "ALIJÓ",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Vale de Prazeres",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Vale de Prazeres e Mata da Rainha",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Barrimau",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Vila Nova de Famalicão e Calendário",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Bifurcação de Torre Vã",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Panoias e Conceição",
+    "Município": "OURIQUE",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Sabugo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Almargem do Bispo, Pêro Pinheiro e Montelavar",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Vale de Santarém",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vale de Santarém",
+    "Município": "SANTARÉM",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Telhada",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Paião",
+    "Município": "FIGUEIRA DA FOZ",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Fogueteiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Seixal, Arrentela e Aldeia de Paio Pires",
+    "Município": "SEIXAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Ramalhal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Ramalhal",
+    "Município": "TORRES VEDRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Quintans",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Oliveirinha",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Vilar Formoso",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Vilar Formoso",
+    "Município": "ALMEIDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Entroncamento",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Nossa Senhora de Fátima",
+    "Município": "ENTRONCAMENTO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Zibreira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Sobral de Monte Agraço",
+    "Município": "SOBRAL DE MONTE AGRAÇO",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Martingança",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Pataias e Martingança",
+    "Município": "ALCOBAÇA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Salreu",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Salreu",
+    "Município": "ESTARREJA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Minas de Neves Corvo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal Neves Corvo",
+    "Freguesia": "Santa Bárbara de Padrões",
+    "Município": "CASTRO VERDE",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Póvoa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Póvoa de Santa Iria e Forte da Casa",
+    "Município": "VILA FRANCA DE XIRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Ferradosa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Vale de Figueira",
+    "Município": "SÃO JOÃO DA PESQUEIRA",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Ponte de Sôr",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Ponte de Sor, Tramaga e Vale de Açor",
+    "Município": "PONTE DE SOR",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Fungalvaz Resguardo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Madalena e Beselga",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Espadaneira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "São Martinho do Bispo e Ribeira de Frades",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Carregado",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Castanheira do Ribatejo e Cachoeiras",
+    "Município": "VILA FRANCA DE XIRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Porto de Sines",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sines",
+    "Freguesia": "Sines",
+    "Município": "SINES",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Fuseta-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Moncarapacho e Fuseta",
+    "Município": "OLHÃO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Ferragudo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Estômbar e Parchal",
+    "Município": "LAGOA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Sete Rios",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "São Domingos de Benfica",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Esqueiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Lanhelas",
+    "Município": "CAMINHA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Covas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Urgezes",
+    "Município": "GUIMARÃES",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Ermesinde - B",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Concordância São Gemil",
+    "Freguesia": "Ermesinde",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Mouquim",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Lemenhe, Mouquim e Jesufrei",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Penafiel",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Penafiel",
+    "Município": "PENAFIEL",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Fazenda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Ponte de Sor, Tramaga e Vale de Açor",
+    "Município": "PONTE DE SOR",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Caxias",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",
+    "Município": "OEIRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Guimarães",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Urgezes",
+    "Município": "GUIMARÃES",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Riachos - Torres Novas - Golegã",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Riachos",
+    "Município": "TORRES NOVAS",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Águeda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Águeda e Borralha",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Penteado",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Moita",
+    "Município": "MOITA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Castelejo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "São João de Areias",
+    "Município": "SANTA COMBA DÃO",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Escapães",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Escapães",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Maçainhas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Maçainhas",
+    "Município": "BELMONTE",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Espinho-Vouga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Espinho",
+    "Município": "ESPINHO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Alcântara-Terra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "Estrela",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Mouriscas-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Mouriscas",
+    "Município": "ABRANTES",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Irivo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Irivo",
+    "Município": "PENAFIEL",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Castro Marim",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Castro Marim",
+    "Município": "CASTRO MARIM",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Trancoso",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Recarei",
+    "Município": "PAREDES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Francelos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Gulpilhares e Valadares",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Ul",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "O. Azeméis, Riba-Ul, Ul, Macinhata da Seixa, Madail",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Muge",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Muge",
+    "Município": "SALVATERRA DE MAGOS",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Vale da Rosa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Sado",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Vesúvio",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Numão",
+    "Município": "VILA NOVA DE FOZ CÔA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "São Romão - A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Coronado (São Romão e São Mamede)",
+    "Município": "TROFA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Oliveira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Vila Meã",
+    "Município": "AMARANTE",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Cortegaça",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Cortegaça",
+    "Município": "OVAR",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Rio de Mouro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Rio de Mouro",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Francelos Norte",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Gulpilhares e Valadares",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Barreiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Barreiro e Lavradio",
+    "Município": "BARREIRO",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "São Gemil",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Leixões",
+    "Freguesia": "Águas Santas",
+    "Município": "MAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Cuca",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Moreira de Cónegos",
+    "Município": "GUIMARÃES",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Godim",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Peso da Régua e Godim",
+    "Município": "PESO DA RÉGUA",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Aveiro - Vouga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Esgueira",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Pinhal Novo ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Pinhal Novo",
+    "Município": "PALMELA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Vila Pouca do Campo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Taveiro, Ameal e Arzila",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Algueirão-Mem Martins",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Algueirão-Mem Martins",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Fernando Pó",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Poceirão e Marateca",
+    "Município": "PALMELA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Amoreiras-Odemira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "São Martinho das Amoreiras",
+    "Município": "ODEMIRA",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Cête",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Cete",
+    "Município": "PAREDES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Queluz-Belas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Queluz e Belas",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Santa Cita",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal de Tomar",
+    "Freguesia": "Madalena e Beselga",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Leandro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "São Pedro Fins",
+    "Município": "MAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Donas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Fundão, Valverde, Donas, A. Joanes, A. Nova do Cabo",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Mourisca-Sado",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Gâmbia-Pontes-Alto da Guerra",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Pataias",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Pataias e Martingança",
+    "Município": "ALCOBAÇA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Bicanho",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Samuel",
+    "Município": "SOURE",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Leça do Balio",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Leixões",
+    "Freguesia": "Custóias, Leça do Balio e Guifões",
+    "Município": "MATOSINHOS",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Grândola Norte",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Grândola e Santa Margarida da Serra",
+    "Município": "GRÂNDOLA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Porto São Bento",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória",
+    "Município": "PORTO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "São Mamede",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Roliça",
+    "Município": "BOMBARRAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Barcelos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Arcozelo",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Eixo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Eixo e Eirol",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Montemor",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Alfarelos",
+    "Freguesia": "Alfarelos",
+    "Município": "SOURE",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Alpedrinha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Alpedrinha",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Malveira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Malveira e São Miguel de Alcainça",
+    "Município": "MAFRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Azinheira dos Barros ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Azinheira dos Barros e São Mamede do Sádão",
+    "Município": "GRÂNDOLA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Carvalhos de Figueiredo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Tomar",
+    "Freguesia": "Madalena e Beselga",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Viana",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Viana do Alentejo",
+    "Município": "VIANA DO ALENTEJO",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Couto de Cambeses",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Cambeses",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Alcácer do Sal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Santa Maria do Castelo e Santiago e Santa Susana",
+    "Município": "ALCÁCER DO SAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Bombel",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Vendas Novas",
+    "Município": "VENDAS NOVAS",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Coimbra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal da Lousã",
+    "Freguesia": "Sé Nova, Santa Cruz, Almedina e São Bartolomeu",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Adémia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Trouxemil e Torre de Vilela",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Reveles",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Alfarelos",
+    "Freguesia": "Abrunheira, Verride e Vila Nova da Barca",
+    "Município": "MONTEMOR-O-VELHO",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "São Martinho do Campo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Campo e Sobrado",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Pinheiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Santa Maria do Castelo e Santiago e Santa Susana",
+    "Município": "ALCÁCER DO SAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Santa Clara-Sabóia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Santa Clara-a-Velha",
+    "Município": "ODEMIRA",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Aguim",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Tamengos, Aguim e Óis do Bairro",
+    "Município": "ANADIA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Ameal-Sul",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Pereira",
+    "Município": "MONTEMOR-O-VELHO",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Famalicão da Nazaré",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Famalicão",
+    "Município": "NAZARÉ",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Ermidas - Sado",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Ermidas-Sado",
+    "Município": "SANTIAGO DO CACÉM",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Casais",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "São Martinho do Bispo e Ribeira de Frades",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Tomar",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal de Tomar",
+    "Freguesia": "São João Baptista e Santa Maria dos Olivais",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Sarnadas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Sarnadas de Ródão",
+    "Município": "VILA VELHA DE RÓDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Canelas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Canelas e Fermelã",
+    "Município": "ESTARREJA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Mercês",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Algueirão-Mem Martins",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Amadora",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Venteira",
+    "Município": "AMADORA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Valongo-Vouga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Valongo do Vouga",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Pampilhosa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Pampilhosa",
+    "Município": "MEALHADA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Soure",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Soure",
+    "Município": "SOURE",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Azurva",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Eixo e Eirol",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Cais do Sodré",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Misericórdia",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Alcaide",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Alcaide",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Virtudes",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Aveiras de Baixo",
+    "Município": "AZAMBUJA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Cruz Quebrada",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",
+    "Município": "OEIRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Marco de Canaveses",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Marco",
+    "Município": "MARCO DE CANAVESES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Belmonte-Manteigas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Belmonte e Colmeal da Torre",
+    "Município": "BELMONTE",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Óbidos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Santa Maria, São Pedro e Sobral da Lagoa",
+    "Município": "ÓBIDOS",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Agolada",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Coruche, Fajarda e Erra",
+    "Município": "CORUCHE",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Setúbal-Mar",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Setúbal (São Sebastião)",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Caniços",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Bairro",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Estarreja",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Beduído e Veiros",
+    "Município": "ESTARREJA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Fundão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Fundão, Valverde, Donas, A. Joanes, A. Nova do Cabo",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Santarém",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "União das freguesias da cidade de Santarém",
+    "Município": "SANTARÉM",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Vila Nova da Cerveira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Vila Nova de Cerveira e Lovelhe",
+    "Município": "VILA NOVA DE CERVEIRA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Santana Cartaxo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vila Chã de Ourique",
+    "Município": "CARTAXO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Palmela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Palmela",
+    "Município": "PALMELA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Complexo de Coina",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Seixal, Arrentela e Aldeia de Paio Pires",
+    "Município": "SEIXAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Lares",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Vila Verde",
+    "Município": "FIGUEIRA DA FOZ",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Caíde",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Caíde de Rei",
+    "Município": "LOUSADA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Avanca",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Avanca",
+    "Município": "ESTARREJA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Silvalde-Vouga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Silvalde",
+    "Município": "ESPINHO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Taveiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Taveiro, Ameal e Arzila",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Midões",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Gamil e Midões",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Vila Real de Stº António",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Vila Real de Santo António",
+    "Município": "VILA REAL DE SANTO ANTÓNIO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Beja",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Beja (Salvador e Santa Maria da Feira)",
+    "Município": "BEJA",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Benquerenças",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Benquerenças",
+    "Município": "CASTELO BRANCO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Alcainça-Moinhos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Malveira e São Miguel de Alcainça",
+    "Município": "MAFRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Pala",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Ancede e Ribadouro",
+    "Município": "BAIÃO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Marinhais",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Marinhais",
+    "Município": "SALVATERRA DE MAGOS",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Aveiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Glória e Vera Cruz",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Nespereira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Nespereira",
+    "Município": "GUIMARÃES",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Macinhata",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Macinhata do Vouga",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Valença",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Valença, Cristelo Covo e Arão",
+    "Município": "VALENÇA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Barca da Amieira -Envendos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Envendos",
+    "Município": "MAÇÃO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Faro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Faro (Sé e São Pedro)",
+    "Município": "FARO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Cacela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Vila Nova de Cacela",
+    "Município": "VILA REAL DE SANTO ANTÓNIO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Bobadela ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santa Iria de Azoia, São João da Talha e Bobadela",
+    "Município": "LOURES",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Luso Buçaco",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Luso",
+    "Município": "MEALHADA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Casal do Álvaro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Recardães e Espinhel",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Darque",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Darque",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Porta Nova",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Tavira (Santa Maria e Santiago)",
+    "Município": "TAVIRA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Formoselha / Santo Varão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santo Varão",
+    "Município": "MONTEMOR-O-VELHO",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Coimbrões",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Canidelo",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Branca",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Branca",
+    "Município": "ALBERGARIA-A-VELHA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Caldas da Rainha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Nossa Senhora do Pópulo, Coto e São Gregório",
+    "Município": "CALDAS DA RAINHA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Tavira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Tavira (Santa Maria e Santiago)",
+    "Município": "TAVIRA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Carreira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Carreira e Fonte Coberta",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Parada",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Parada de Todeia",
+    "Município": "PAREDES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Braço de Prata",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Marvila",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Tunes",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Algoz e Tunes",
+    "Município": "SILVES",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Fuseta",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Moncarapacho e Fuseta",
+    "Município": "OLHÃO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Boliqueime",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Boliqueime",
+    "Município": "LOULÉ",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Retaxo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Cebolais de Cima e Retaxo",
+    "Município": "CASTELO BRANCO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Mealhada Norte",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Mealhada, Ventosa do Bairro e Antes",
+    "Município": "MEALHADA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Outeiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Campelos e Outeiro da Cabeça",
+    "Município": "TORRES VEDRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Palmilheira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Águas Santas",
+    "Município": "MAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Casa Branca",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Santiago do Escoural",
+    "Município": "MONTEMOR-O-NOVO",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Alcântara-Mar",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Estrela",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Contumil",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Campanhã",
+    "Município": "PORTO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "São João do Estoril ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Cascais e Estoril",
+    "Município": "CASCAIS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Couto de Cucujães",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Vila de Cucujães",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Moimenta Alcafache",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Espinho",
+    "Município": "MANGUALDE",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Santa Eulália-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Santa Eulália",
+    "Município": "ELVAS",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Souselas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Souselas e Botão",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Santa Cruz/Damaia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Águas Livres",
+    "Município": "AMADORA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Rio Tinto",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Rio Tinto",
+    "Município": "GONDOMAR",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Torre das Vargens",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Ponte de Sor, Tramaga e Vale de Açor",
+    "Município": "PONTE DE SOR",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Vila Nova da Baronia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Vila Nova da Baronia",
+    "Município": "ALVITO",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Pelariga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Pelariga",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Faria",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Vila de Cucujães",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Bemposta",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "São Facundo e Vale de Mós",
+    "Município": "ABRANTES",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Oiã ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Oiã",
+    "Município": "OLIVEIRA DO BAIRRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Quinta do Valongo - Vacariça",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Vacariça",
+    "Município": "MEALHADA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Ermesinde",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Ermesinde",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Pedra Furada",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Almargem do Bispo, Pêro Pinheiro e Montelavar",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Regueira de Pontes",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Regueira de Pontes",
+    "Município": "LEIRIA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Âncora Praia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Vila Praia de Âncora",
+    "Município": "CAMINHA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Paredes",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Paredes",
+    "Município": "PAREDES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "São Frutuoso",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Folgosa",
+    "Município": "MAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Carregado Norte",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Carregado e Cadafais",
+    "Município": "ALENQUER",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Seixas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Seixas",
+    "Município": "CAMINHA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Oronhe",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Recardães e Espinhel",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Barragem de Belver",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Ortiga",
+    "Município": "MAÇÃO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Alvalade",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Alvalade",
+    "Município": "SANTIAGO DO CACÉM",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Fungalvaz",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Assentiz",
+    "Município": "TORRES NOVAS",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Ruílhe",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Ruilhe",
+    "Município": "BRAGA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Oliveira do Bairro ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Oliveira do Bairro",
+    "Município": "OLIVEIRA DO BAIRRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Vila Franca de Xira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vila Franca de Xira",
+    "Município": "VILA FRANCA DE XIRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Panóias",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Panoias e Conceição",
+    "Município": "OURIQUE",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Urgueiras",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Albergaria-a-Velha e Valmaior",
+    "Município": "ALBERGARIA-A-VELHA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Vale de Figueira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "São Vicente do Paul e Vale de Figueira",
+    "Município": "SANTARÉM",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Camarão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Bombarral e Vale Covo",
+    "Município": "BOMBARRAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Mira Sintra - Meleças",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Queluz e Belas",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Algoz",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Algoz e Tunes",
+    "Município": "SILVES",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Funcheira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Garvão e Santa Luzia",
+    "Município": "OURIQUE",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Abrantes",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "São Miguel do Rio Torto e Rossio ao Sul do Tejo",
+    "Município": "ABRANTES",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Canas Felgueira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Canas de Senhorim",
+    "Município": "NELAS",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Figueira da Foz",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Buarcos e São Julião",
+    "Município": "FIGUEIRA DA FOZ",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Vargelas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Vale de Figueira",
+    "Município": "SÃO JOÃO DA PESQUEIRA",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Litém",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santiago e S. Simão de Litém e Albergaria dos Doze",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Portalegre",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Urra",
+    "Município": "PORTALEGRE",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Cabanões",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Travassô e Óis da Ribeira",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Rede",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Vila Marim",
+    "Município": "MESÃO FRIO",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Valado",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Valado dos Frades",
+    "Município": "NAZARÉ",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Arronches",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Assunção",
+    "Município": "ARRONCHES",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Mealhada",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Mealhada, Ventosa do Bairro e Antes",
+    "Município": "MEALHADA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Cacia ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Cacia",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Sanfins",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Santa Maria da Feira, Travanca, Sanfins e Espargo",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Poço Barreto",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Silves",
+    "Município": "SILVES",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Vale de Guizo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Santa Maria do Castelo e Santiago e Santa Susana",
+    "Município": "ALCÁCER DO SAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Terronhas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Recarei",
+    "Município": "PAREDES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Marinha Grande",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Marinha Grande",
+    "Município": "MARINHA GRANDE",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Mosteirô",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Ancede e Ribadouro",
+    "Município": "BAIÃO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Campo-Serra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Tornada e Salir do Porto",
+    "Município": "CALDAS DA RAINHA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Ermida",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Santa Marinha do Zêzere",
+    "Município": "BAIÃO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Bom João",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Faro (Sé e São Pedro)",
+    "Município": "FARO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Loulé",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Loulé (São Sebastião)",
+    "Município": "LOULÉ",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Ourique",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Castro Verde e Casével",
+    "Município": "CASTRO VERDE",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Paúl",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Roliça",
+    "Município": "BOMBARRAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Cavaco",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Santa Maria da Feira, Travanca, Sanfins e Espargo",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Mangualde",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Mangualde, Mesquitela e Cunha Alta",
+    "Município": "MANGUALDE",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Sacavém  ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Sacavém e Prior Velho",
+    "Município": "LOURES",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Mortágua",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Mortágua, Vale de Remígio, Cortegaça e Almaça",
+    "Município": "MORTÁGUA",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Pego",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Vacariça",
+    "Município": "MEALHADA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "São João de Loure",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Eixo e Eirol",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Vila Nova de Anços",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vila Nova de Anços",
+    "Município": "SOURE",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Olhão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Olhão",
+    "Município": "OLHÃO",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Pragal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Almada, Cova da Piedade, Pragal e Cacilhas",
+    "Município": "ALMADA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Praia do Ribatejo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Praia do Ribatejo",
+    "Município": "VILA NOVA DA BARQUINHA",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Vila das Aves ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Aves",
+    "Município": "SANTO TIRSO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Barquinha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Vila Nova da Barquinha",
+    "Município": "VILA NOVA DA BARQUINHA",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Aguieira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Valongo do Vouga",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Seiça-Ourém",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Seiça",
+    "Município": "OURÉM",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Rio Meão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Rio Meão",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Vermoil",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santiago e S. Simão de Litém e Albergaria dos Doze",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Paialvo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Madalena e Beselga",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Guifões",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Leixões",
+    "Freguesia": "Custóias, Leça do Balio e Guifões",
+    "Município": "MATOSINHOS",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Santos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Estrela",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Monte das Flores",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Évora",
+    "Freguesia": "Malagueira e Horta das Figueiras",
+    "Município": "ÉVORA",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Trofa ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Bougado (São Martinho e Santiago)",
+    "Município": "TROFA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Santa Iria",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santa Iria de Azoia, São João da Talha e Bobadela",
+    "Município": "LOURES",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Barreiro-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Barreiro e Lavradio",
+    "Município": "BARREIRO",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Lardosa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Lardosa",
+    "Município": "CASTELO BRANCO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Lagos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "São Gonçalo de Lagos",
+    "Município": "LAGOS",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Cela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Cela",
+    "Município": "ALCOBAÇA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Espinho",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Espinho",
+    "Município": "ESPINHO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "São João da Madeira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "São João da Madeira",
+    "Município": "SÃO JOÃO DA MADEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Azinheira dos Barros – A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Azinheira dos Barros e São Mamede do Sádão",
+    "Município": "GRÂNDOLA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Freixo de Numão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Vila Nova de Foz Côa",
+    "Município": "VILA NOVA DE FOZ CÔA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Fatela-Penamacor",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Enxames",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "São Pedro da Torre",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "São Pedro da Torre",
+    "Município": "VALENÇA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Pinheiro da Bemposta",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Pinheiro da Bemposta, Travanca e Palmaz",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Pegões",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Pegões",
+    "Município": "MONTIJO",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Lousal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Azinheira dos Barros e São Mamede do Sádão",
+    "Município": "GRÂNDOLA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Lapa do Lobo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Lapa do Lobo",
+    "Município": "NELAS",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "General Torres",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santa Marinha e São Pedro da Afurada",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Luz",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Luz de Tavira e Santo Estêvão",
+    "Município": "TAVIRA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Alcantarilha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Alcantarilha e Pêra",
+    "Município": "SILVES",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Águas Santas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Águas Santas",
+    "Município": "MAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Espadanal da Azambuja",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vila Nova da Rainha",
+    "Município": "AZAMBUJA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Monte Abraão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Queluz e Belas",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Vila Nova da Raínha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vila Nova da Rainha",
+    "Município": "AZAMBUJA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "São João de Ver",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "São João de Ver",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Portela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Covelas",
+    "Município": "TROFA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Bencanta",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "São Martinho do Bispo e Ribeira de Frades",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Vendas Novas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Vendas Novas",
+    "Município": "VENDAS NOVAS",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Pombal Resguardo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Pombal",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Pocinho",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Vila Nova de Foz Côa",
+    "Município": "VILA NOVA DE FOZ CÔA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Desvio Km 19,5",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Glória do Ribatejo e Granho",
+    "Município": "SALVATERRA DE MAGOS",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Gouveia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Abrunhosa-a-Velha",
+    "Município": "MANGUALDE",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Guarda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Guarda",
+    "Município": "GUARDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Paços de Brandão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Paços de Brandão",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Covilhã",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Covilhã e Canhoso",
+    "Município": "COVILHÃ",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Esgueira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Esgueira",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Alferrarede",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Abrantes (São Vicente e São João) e Alferrarede",
+    "Município": "ABRANTES",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Entrecampos - Poente",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "Avenidas Novas",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Pereiras",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Santa Clara-a-Velha",
+    "Município": "ODEMIRA",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Carcavelos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Carcavelos e Parede",
+    "Município": "CASCAIS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "São Pedro do Estoril",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Cascais e Estoril",
+    "Município": "CASCAIS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Entrecampos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "Alvalade",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Coina",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Seixal, Arrentela e Aldeia de Paio Pires",
+    "Município": "SEIXAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Bagaúste",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Poiares e Canelas",
+    "Município": "PESO DA RÉGUA",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Monte Estoril",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Cascais e Estoril",
+    "Município": "CASCAIS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Praias-Sado-A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Setúbal (São Sebastião)",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Ameal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Taveiro, Ameal e Arzila",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Setúbal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Setúbal (São Sebastião)",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Chão de Maçãs-Fátima",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Sabacheira",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Verride",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal de Alfarelos",
+    "Freguesia": "Abrunheira, Verride e Vila Nova da Barca",
+    "Município": "MONTEMOR-O-VELHO",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Alvarães",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Alvarães",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Esmeriz",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Esmeriz e Cabeçudos",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Alvito",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Alvito",
+    "Município": "ALVITO",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Vila Fernando",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Vila Fernando",
+    "Município": "GUARDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Barracão-Sabugal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Panoias de Cima",
+    "Município": "GUARDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Sernada do Vouga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Macinhata do Vouga",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Alhandra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Alhandra, São João dos Montes e Calhandriz",
+    "Município": "VILA FRANCA DE XIRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Aguda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Arcozelo",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Cuba",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Cuba",
+    "Município": "CUBA",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Marvila",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "Marvila",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Azambuja",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Azambuja",
+    "Município": "AZAMBUJA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Miramar",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Arcozelo",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Algés",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",
+    "Município": "OEIRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Jerumelo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Sapataria",
+    "Município": "SOBRAL DE MONTE AGRAÇO",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Madalena",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Madalena",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Caxarias",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Caxarias",
+    "Município": "OURÉM",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Papízios",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Carregal do Sal",
+    "Município": "CARREGAL DO SAL",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Torres Vedras",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Santa Maria, São Pedro e Matacães",
+    "Município": "TORRES VEDRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Lisboa Santa Apolónia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "São Vicente",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Mirão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Santa Cruz do Douro e São Tomé de Covelas",
+    "Município": "BAIÃO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Petrogal - Asfaltos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal Petrogal - Asfaltos",
+    "Freguesia": "Sines",
+    "Município": "SINES",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Ferrão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Covas do Douro",
+    "Município": "SABROSA",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Oleiros",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Guilhufe e Urrô",
+    "Município": "PENAFIEL",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Torre da Gadanha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "São Cristóvão",
+    "Município": "MONTEMOR-O-NOVO",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Miuzela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Miuzela e Porto de Ovelha",
+    "Município": "ALMEIDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Santana Cartaxo Resguardo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Vila Chã de Ourique",
+    "Município": "CARTAXO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Santa Margarida",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Santa Margarida da Coutada",
+    "Município": "CONSTÂNCIA",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Viana do Castelo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Santa Maria Maior e Monserrate e Meadela",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Simões",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Soure",
+    "Município": "SOURE",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Arrifana",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Arrifana",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Fornos de Algodres",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Fornos de Algodres",
+    "Município": "FORNOS DE ALGODRES",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Santo Tirso",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "St. Tirso, Couto (S. Cristina e S. Miguel) e Burgães",
+    "Município": "SANTO TIRSO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Taipa - Requeixo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Requeixo, Nossa Senhora de Fátima e Nariz",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Louro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Louro",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Praias-Sado",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Setúbal (São Sebastião)",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Benespera",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Benespera",
+    "Município": "GUARDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Travassô",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Travassô e Óis da Ribeira",
+    "Município": "ÁGUEDA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Quinta Grande",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Coruche, Fajarda e Erra",
+    "Município": "CORUCHE",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Santo Amaro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",
+    "Município": "OEIRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Leiria",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Marrazes e Barosa",
+    "Município": "LEIRIA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Desvio de Picotas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal Neves Corvo",
+    "Freguesia": "Castro Verde e Casével",
+    "Município": "CASTRO VERDE",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Monte de Paramos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Paramos",
+    "Município": "ESPINHO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Leixões",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Leixões",
+    "Freguesia": "Matosinhos e Leça da Palmeira",
+    "Município": "MATOSINHOS",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Tojeirinha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Vila Velha de Ródão",
+    "Município": "VILA VELHA DE RÓDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Santa Comba Dão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Ovoa e Vimieiro",
+    "Município": "SANTA COMBA DÃO",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Cascais",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Cascais e Estoril",
+    "Município": "CASCAIS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Mogofores",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Arcos e Mogofores",
+    "Município": "ANADIA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Mafra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Igreja Nova e Cheleiros",
+    "Município": "MAFRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Baixa da Banheira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Baixa da Banheira e Vale da Amoreira",
+    "Município": "MOITA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Cachofarra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Setúbal (São Sebastião)",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Pereirinhas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Moreira de Cónegos",
+    "Município": "GUIMARÃES",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Bifurcação de Lares",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Abrunheira, Verride e Vila Nova da Barca",
+    "Município": "MONTEMOR-O-VELHO",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Esmoriz",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Esmoriz",
+    "Município": "OVAR",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Chança",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Chancelaria",
+    "Município": "ALTER DO CHÃO",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Curvaceiras",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Tomar",
+    "Freguesia": "Madalena e Beselga",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Moledo do Minho",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Moledo e Cristelo",
+    "Município": "CAMINHA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Belém",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Belém",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Salgueirinha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Coruche, Fajarda e Erra",
+    "Município": "CORUCHE",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Roma - Areeiro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "Alvalade",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Lapa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "São Paio de Oleiros",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Mouriscas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Mouriscas",
+    "Município": "ABRANTES",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Válega",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Válega",
+    "Município": "OVAR",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Senhora das Neves",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Vila de Punhe",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Lavradio",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Barreiro e Lavradio",
+    "Município": "BARREIRO",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Algueirão-Parque",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Algueirão-Mem Martins",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Marujal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Alfarelos",
+    "Freguesia": "Abrunheira, Verride e Vila Nova da Barca",
+    "Município": "MONTEMOR-O-VELHO",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Lavre",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Santana do Mato",
+    "Município": "CORUCHE",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Noémi",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Miuzela e Porto de Ovelha",
+    "Município": "ALMEIDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Grândola",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Grândola e Santa Margarida da Serra",
+    "Município": "GRÂNDOLA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Tua",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Castanheiro do Norte e Ribalonga",
+    "Município": "CARRAZEDA DE ANSIÃES",
+    "Distrito": "BRAGANÇA"
+  },
+  {
+    "Designação": "Lordelo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Lordelo",
+    "Município": "GUIMARÃES",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Paramos ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Paramos",
+    "Município": "ESPINHO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Castelo Branco",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Castelo Branco",
+    "Município": "CASTELO BRANCO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Agualva-Cacém",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Agualva e Mira-Sintra",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "São João das Craveiras",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Pegões",
+    "Município": "MONTIJO",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Moscavide",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Moscavide e Portela",
+    "Município": "LOURES",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Figueiredo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Pinheiro da Bemposta, Travanca e Palmaz",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Vilela - Fornos ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Trouxemil e Torre de Vilela",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Cerdeira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Cerdeira",
+    "Município": "SABUGAL",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Aregos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Santa Cruz do Douro e São Tomé de Covelas",
+    "Município": "BAIÃO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Silva",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Silva",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Tortosendo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Tortosendo",
+    "Município": "COVILHÃ",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Lisboa Oriente",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Parque das Nações",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Recarei - Sobreira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Sobreira",
+    "Município": "PAREDES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Régua",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Peso da Régua e Godim",
+    "Município": "PESO DA RÉGUA",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Famalicão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Vila Nova de Famalicão e Calendário",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "São Mamede do Tua",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Castedo e Cotas",
+    "Município": "ALIJÓ",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Juncal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Paredes de Viadores e Manhuncelos",
+    "Município": "MARCO DE CANAVESES",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Alegria",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Linhares",
+    "Município": "CARRAZEDA DE ANSIÃES",
+    "Distrito": "BRAGANÇA"
+  },
+  {
+    "Designação": "Valadares",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Gulpilhares e Valadares",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Águas de Moura",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Gâmbia-Pontes-Alto da Guerra",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Santiago de Riba-Ul",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "O. Azeméis, Riba-Ul, Ul, Macinhata da Seixa, Madail",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Bombarral",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Bombarral e Vale Covo",
+    "Município": "BOMBARRAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Albergaria-a-Velha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Albergaria-a-Velha e Valmaior",
+    "Município": "ALBERGARIA-A-VELHA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Carregal do Sal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Carregal do Sal",
+    "Município": "CARREGAL DO SAL",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "São Mamede de Infesta",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Leixões",
+    "Freguesia": "São Mamede de Infesta e Senhora da Hora",
+    "Município": "MATOSINHOS",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Soito",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Espinho",
+    "Município": "MORTÁGUA",
+    "Distrito": "VISEU"
+  },
+  {
+    "Designação": "Ródão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Vila Velha de Ródão",
+    "Município": "VILA VELHA DE RÓDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Chelas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cintura",
+    "Freguesia": "Beato",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Praça do Quebedo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "S. Julião, N. S. da Anunciada e S. Maria da Graça",
+    "Município": "SETÚBAL",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Vila da Feira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Santa Maria da Feira, Travanca, Sanfins e Espargo",
+    "Município": "SANTA MARIA DA FEIRA",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Amieira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Samuel",
+    "Município": "SOURE",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Meia Praia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "São Gonçalo de Lagos",
+    "Município": "LAGOS",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Tramagal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Tramagal",
+    "Município": "ABRANTES",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Fratel",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Fratel",
+    "Município": "VILA VELHA DE RÓDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Rochoso",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Rochoso e Monte Margarida",
+    "Município": "GUARDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Meinedo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Meinedo",
+    "Município": "LOUSADA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Covelinhas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Galafura e Covelinhas",
+    "Município": "PESO DA RÉGUA",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Gondarém",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Gondarém",
+    "Município": "VILA NOVA DE CERVEIRA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Barroselas",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Barroselas e Carvoeiro",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Évora",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Évora",
+    "Freguesia": "Malagueira e Horta das Figueiras",
+    "Município": "ÉVORA",
+    "Distrito": "ÉVORA"
+  },
+  {
+    "Designação": "Coimbra B",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Eiras e São Paulo de Frades",
+    "Município": "COIMBRA",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Alcaria",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Alcaria",
+    "Município": "FUNDÃO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Belver",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Belver",
+    "Município": "GAVIÃO",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Eirol",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Eixo e Eirol",
+    "Município": "AVEIRO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Penalva",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Quinta do Anjo",
+    "Município": "PALMELA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Carrascal-Delongo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Tomar",
+    "Freguesia": "Paialvo",
+    "Município": "TOMAR",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Nine",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Nine",
+    "Município": "VILA NOVA DE FAMALICÃO",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Caminha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Caminha (Matriz) e Vilarelho",
+    "Município": "CAMINHA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Palmela - A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Palmela",
+    "Município": "PALMELA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "São Bartolomeu da Serra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sines",
+    "Freguesia": "Santiago do Cacém, S. Cruz e S. Bartolomeu da Serra",
+    "Município": "SANTIAGO DO CACÉM",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Sintra",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "S. Maria, S. Miguel, S. Martinho e S. Pedro de Penaferrim",
+    "Município": "SINTRA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Raquete",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sines",
+    "Freguesia": "Sines",
+    "Município": "SINES",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Poceirão",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Poceirão e Marateca",
+    "Município": "PALMELA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Monte Redondo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Monte Redondo e Carreira",
+    "Município": "LEIRIA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Alvega-Ortiga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Ortiga",
+    "Município": "MAÇÃO",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Carvalheira - Maceda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Maceda",
+    "Município": "OVAR",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Barqueiros",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Barqueiros",
+    "Município": "MESÃO FRIO",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Sapataria",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Sapataria",
+    "Município": "SOBRAL DE MONTE AGRAÇO",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Lamarosa",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Olaia e Paço",
+    "Município": "TORRES NOVAS",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Vizela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Guimarães",
+    "Freguesia": "Caldas de Vizela (São Miguel e São João)",
+    "Município": "VIZELA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Freineda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Freineda",
+    "Município": "ALMEIDA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Granja",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "São Félix da Marinha",
+    "Município": "VILA NOVA DE GAIA",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Valongo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Valongo",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Celorico da Beira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Forno Telheiro",
+    "Município": "CELORICO DA BEIRA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Muxagata",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Figueiró da Granja",
+    "Município": "FORNOS DE ALGODRES",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Durrães",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Durrães e Tregosa",
+    "Município": "BARCELOS",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Louriçal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Carriço",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Caldas de Moledo",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Fontelas",
+    "Município": "PESO DA RÉGUA",
+    "Distrito": "VILA REAL"
+  },
+  {
+    "Designação": "Pombal ",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Pombal",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Albergaria dos Doze",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Santiago e S. Simão de Litém e Albergaria dos Doze",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Albufeira - Ferreiras",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Ferreiras",
+    "Município": "ALBUFEIRA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "Aveleda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Celeirós, Aveleda e Vimieiro",
+    "Município": "BRAGA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Venda do Alcaide",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Palmela",
+    "Município": "PALMELA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Cabêda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Douro",
+    "Freguesia": "Alfena",
+    "Município": "VALONGO",
+    "Distrito": "PORTO"
+  },
+  {
+    "Designação": "Caria",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Caria",
+    "Município": "BELMONTE",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Pinhel",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Alverca da Beira/Bouça Cova",
+    "Município": "PINHEL",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Mato Miranda",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Azinhaga",
+    "Município": "GOLEGÃ",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Arentim",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Arentim e Cunha",
+    "Município": "BRAGA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Alcains",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha da Beira Baixa",
+    "Freguesia": "Alcains",
+    "Município": "CASTELO BRANCO",
+    "Distrito": "CASTELO BRANCO"
+  },
+  {
+    "Designação": "Baraçal",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha da Beira Alta",
+    "Freguesia": "Baraçal",
+    "Município": "CELORICO DA BEIRA",
+    "Distrito": "GUARDA"
+  },
+  {
+    "Designação": "Moita",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Alentejo",
+    "Freguesia": "Moita",
+    "Município": "MOITA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Bouro",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Tornada e Salir do Porto",
+    "Município": "CALDAS DA RAINHA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Ribeira de Seiça",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Paião",
+    "Município": "FIGUEIRA DA FOZ",
+    "Distrito": "COIMBRA"
+  },
+  {
+    "Designação": "Braga",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Ramal de Braga",
+    "Freguesia": "Braga (Maximinos, Sé e Cividade)",
+    "Município": "BRAGA",
+    "Distrito": "BRAGA"
+  },
+  {
+    "Designação": "Crato",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Leste",
+    "Freguesia": "Crato e Mártires, Flor da Rosa e Vale do Peso",
+    "Município": "CRATO",
+    "Distrito": "PORTALEGRE"
+  },
+  {
+    "Designação": "Coruche",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Vendas Novas",
+    "Freguesia": "Coruche, Fajarda e Erra",
+    "Município": "CORUCHE",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Canal-Caveira",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Grândola e Santa Margarida da Serra",
+    "Município": "GRÂNDOLA",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Benfica",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sintra",
+    "Freguesia": "Benfica",
+    "Município": "LISBOA",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Conceição",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Algarve",
+    "Freguesia": "Conceição e Cabanas de Tavira",
+    "Município": "TAVIRA",
+    "Distrito": "FARO"
+  },
+  {
+    "Designação": "São Martinho do Porto",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "São Martinho do Porto",
+    "Município": "ALCOBAÇA",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Luzianes",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Sul",
+    "Freguesia": "Luzianes-Gare",
+    "Município": "ODEMIRA",
+    "Distrito": "BEJA"
+  },
+  {
+    "Designação": "Travanca-Macinhata",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Vouga",
+    "Freguesia": "Pinheiro da Bemposta, Travanca e Palmaz",
+    "Município": "OLIVEIRA DE AZEMÉIS",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Silvalde",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Silvalde",
+    "Município": "ESPINHO",
+    "Distrito": "AVEIRO"
+  },
+  {
+    "Designação": "Paço de Arcos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Cascais",
+    "Freguesia": "Oeiras e S. Julião da Barra, Paço de Arcos e Caxias",
+    "Município": "OEIRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Dois Portos",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Dois Portos e Runa",
+    "Município": "TORRES VEDRAS",
+    "Distrito": "LISBOA"
+  },
+  {
+    "Designação": "Guia",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Oeste",
+    "Freguesia": "Guia, Ilha e Mata Mourisca",
+    "Município": "POMBAL",
+    "Distrito": "LEIRIA"
+  },
+  {
+    "Designação": "Areia - Darque",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Darque",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Carvalha",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Campos e Vila Meã",
+    "Município": "VILA NOVA DE CERVEIRA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Carreço",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Carreço",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Carreço - A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "Carreço",
+    "Município": "VIANA DO CASTELO",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Carvalha - A",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha do Minho",
+    "Freguesia": "União das freguesias de Campos e Vila Meã",
+    "Município": "VILA NOVA DE CERVEIRA",
+    "Distrito": "VIANA DO CASTELO"
+  },
+  {
+    "Designação": "Mato Miranda Norte",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha do Norte",
+    "Freguesia": "Azinhaga",
+    "Município": "GOLEGÃ",
+    "Distrito": "SANTARÉM"
+  },
+  {
+    "Designação": "Abela",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Estação",
+    "Designação Linha": "Linha de Sines",
+    "Freguesia": "Abela",
+    "Município": "SANTIAGO DO CACÉM",
+    "Distrito": "SETÚBAL"
+  },
+  {
+    "Designação": "Hospital de São João",
+    "Estado": "Com Exploração",
+    "Desiggrupo": "Apeadeiro",
+    "Designação Linha": "Linha de Leixões",
+    "Freguesia": "União das freguesias de São Mamede de Infesta e Senhora da Hora",
+    "Município": "MATOSINHOS",
+    "Distrito": "PORTO"
+  }
+]

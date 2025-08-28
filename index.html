@@ -30,7 +30,7 @@
 
   var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Função para criar marcador quadrado
+  // Função para criar marcador quadrado vermelho (igual ao teste)
   function createMarker(latlng, name) {
     return L.marker(latlng, {
       icon: L.divIcon({
@@ -43,14 +43,23 @@
     }).bindPopup(name).addTo(stationsLayerGroup);
   }
 
-  // Carregar estações (GeoJSON de pontos)
-  fetch('estacoes-ferroviarias-pontos.geojson')
+  // Carregar estações do GeoJSON
+  fetch('estacoes-ferroviarias.geojson')
     .then(res => res.json())
     .then(data => {
       data.features.forEach(feature => {
-        if (feature.geometry.type === 'Point') {
-          const coords = feature.geometry.coordinates;
-          const latlng = [coords[1], coords[0]];
+        let latlng = null;
+
+        // Coordenadas robustas: Point / LineString / Polygon
+        if(feature.geometry.type === 'Point') {
+          latlng = [feature.geometry.coordinates[1], feature.geometry.coordinates[0]];
+        } else if(feature.geometry.type === 'LineString') {
+          latlng = [feature.geometry.coordinates[0][1], feature.geometry.coordinates[0][0]];
+        } else if(feature.geometry.type === 'Polygon') {
+          latlng = [feature.geometry.coordinates[0][0][1], feature.geometry.coordinates[0][0][0]];
+        }
+
+        if(latlng) {
           createMarker(latlng, feature.properties.name);
         }
       });

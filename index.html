@@ -4,15 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Estações e Linhas Ferroviárias de Portugal</title>
-  
-  <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <!-- Leaflet Search CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet-search/dist/leaflet-search.min.css" />
-  <!-- Leaflet Awesome Markers CSS -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.awesome-markers/2.0.5/leaflet.awesome-markers.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
   <style>
     body, html { margin: 0; padding: 0; height: 100%; display: flex; flex-direction: column; }
     header {
@@ -31,10 +24,8 @@
 <header>Estações e Linhas Ferroviárias de Portugal</header>
 <div id="map"></div>
 
-<!-- Scripts -->
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-search/dist/leaflet-search.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.awesome-markers/2.0.5/leaflet.awesome-markers.js"></script>
 
 <script>
   var map = L.map('map').setView([39.5, -8], 7);
@@ -44,12 +35,12 @@
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  // Ícone de comboio colorido com Leaflet-AwesomeMarkers
-  var trainIcon = L.AwesomeMarkers.icon({
-    icon: 'train',
-    prefix: 'fa',
-    markerColor: 'blue', // pode ser 'red', 'green', 'orange', 'purple', etc.
-    iconColor: 'white'
+  // Ícone de comboio local seguro
+  var trainIcon = L.icon({
+    iconUrl: 'train.png', // PNG local na mesma pasta
+    iconSize: [32, 32],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
   });
 
   // Carregar estações
@@ -75,18 +66,16 @@
         }
       });
       map.addControl(searchControl);
-    });
+    })
+    .catch(err => console.error('Erro a carregar estacoes:', err));
 
   // Linhas ferroviárias (um bloco)
-  var blocos = ['linhas-ferroviarias.geojson'];
-
-  blocos.forEach(function(file) {
-    fetch(file)
-      .then(res => res.json())
-      .then(data => {
-        L.geoJSON(data, { style: { color: 'red', weight: 2 } }).addTo(map);
-      });
-  });
+  fetch('linhas-ferroviarias.geojson')
+    .then(res => res.json())
+    .then(data => {
+      L.geoJSON(data, { style: { color: 'red', weight: 2 } }).addTo(map);
+    })
+    .catch(err => console.error('Erro a carregar linhas:', err));
 </script>
 
 </body>

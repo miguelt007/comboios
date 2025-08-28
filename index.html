@@ -3,13 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Estações Ferroviárias de Portugal</title>
-
-  <!-- Leaflet CSS -->
+  <title>Estações e Linhas Ferroviárias de Portugal</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <!-- Leaflet Search CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet-search/dist/leaflet-search.min.css" />
-
   <style>
     body, html { margin: 0; padding: 0; height: 100%; display: flex; flex-direction: column; }
     header {
@@ -25,33 +21,27 @@
 </head>
 <body>
 
-<header>Mapa de Estações Ferroviárias de Portugal</header>
+<header>Estações e Linhas Ferroviárias de Portugal</header>
 <div id="map"></div>
 
-<!-- Leaflet JS -->
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<!-- Leaflet Search plugin -->
 <script src="https://unpkg.com/leaflet-search/dist/leaflet-search.min.js"></script>
 
 <script>
-  // Criar mapa
   var map = L.map('map').setView([39.5, -8], 7);
 
-  // Tile layer OSM
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  // Ícone personalizado (comboio)
   var trainIcon = L.icon({
-    iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Train_font_awesome.svg', // link para ícone
+    iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Train_font_awesome.svg',
     iconSize: [30, 30],
     iconAnchor: [15, 30],
     popupAnchor: [0, -30]
   });
 
-  // Carregar estações do GeoJSON
   fetch('estacoes-ferroviarias-portugal.geojson')
     .then(res => res.json())
     .then(data => {
@@ -64,7 +54,6 @@
         }
       }).addTo(map);
 
-      // Adicionar pesquisa
       var searchControl = new L.Control.Search({
         layer: stationsLayer,
         propertyName: 'name',
@@ -76,8 +65,7 @@
       map.addControl(searchControl);
     });
 
-  // Linhas férreas (opcional: precisa de GeoJSON de linhas)
-  fetch('linhas-ferroviarias-portugal.geojson') // substitui com teu ficheiro
+  fetch('linhas-ferroviarias-portugal.geojson')
     .then(res => res.json())
     .then(data => {
       L.geoJSON(data, {

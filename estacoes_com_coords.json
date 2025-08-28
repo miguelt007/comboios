@@ -1,0 +1,82 @@
+[
+  {
+    "Designação": "Lisboa - Santa Apolónia",
+    "Desiggrupo": "Estação",
+    "Estado": "Com Exploração",
+    "Freguesia": "São Vicente",
+    "Município": "Lisboa",
+    "Distrito": "Lisboa",
+    "latitude": 38.7169,
+    "longitude": -9.1231
+  },
+  {
+    "Designação": "Lisboa - Oriente",
+    "Desiggrupo": "Estação",
+    "Estado": "Com Exploração",
+    "Freguesia": "Parque das Nações",
+    "Município": "Lisboa",
+    "Distrito": "Lisboa",
+    "latitude": 38.7679,
+    "longitude": -9.0994
+  },
+  {
+    "Designação": "Sacavém",
+    "Desiggrupo": "Apeadeiro",
+    "Estado": "Com Exploração",
+    "Freguesia": "Sacavém e Prior Velho",
+    "Município": "Loures",
+    "Distrito": "Lisboa",
+    "latitude": 38.7933,
+    "longitude": -9.1025
+  },
+  {
+    "Designação": "Bobadela",
+    "Desiggrupo": "Estação",
+    "Estado": "Com Exploração",
+    "Freguesia": "Santa Iria de Azóia, São João da Talha e Bobadela",
+    "Município": "Loures",
+    "Distrito": "Lisboa",
+    "latitude": 38.8144,
+    "longitude": -9.0964
+  },
+  {
+    "Designação": "Santa Iria",
+    "Desiggrupo": "Apeadeiro",
+    "Estado": "Com Exploração",
+    "Freguesia": "Santa Iria de Azóia, São João da Talha e Bobadela",
+    "Município": "Loures",
+    "Distrito": "Lisboa",
+    "latitude": 38.8328,
+    "longitude": -9.0836
+  },
+  {
+    "Designação": "Póvoa",
+    "Desiggrupo": "Apeadeiro",
+    "Estado": "Com Exploração",
+    "Freguesia": "Póvoa de Santa Iria e Forte da Casa",
+    "Município": "Vila Franca de Xira",
+    "Distrito": "Lisboa",
+    "latitude": 38.8472,
+    "longitude": -9.0625
+  },
+  {
+    "Designação": "Alverca",
+    "Desiggrupo": "Estação",
+    "Estado": "Com Exploração",
+    "Freguesia": "Alverca do Ribatejo e Sobralinho",
+    "Município": "Vila Franca de Xira",
+    "Distrito": "Lisboa",
+    "latitude": 38.9000,
+    "longitude": -9.0333
+  },
+  {
+    "Designação": "Vila Franca de Xira",
+    "Desiggrupo": "Estação",
+    "Estado": "Com Exploração",
+    "Freguesia": "Vila Franca de Xira",
+    "Município": "Vila Franca de Xira",
+    "Distrito": "Lisboa",
+    "latitude": 38.9553,
+    "longitude": -8.9892
+  }
+]

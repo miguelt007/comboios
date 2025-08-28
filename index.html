@@ -35,8 +35,9 @@
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
+  // Ícone de comboio em PNG (corrigido)
   var trainIcon = L.icon({
-    iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Train_font_awesome.svg',
+    iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Train_font_awesome.svg/64px-Train_font_awesome.svg.png',
     iconSize: [30, 30],
     iconAnchor: [15, 30],
     popupAnchor: [0, -30]
@@ -67,7 +68,7 @@
       map.addControl(searchControl);
     });
 
-  // Linhas ferroviárias por blocos
+  // Linhas ferroviárias (apenas um bloco)
   var blocos = [
     'linhas-ferroviarias.geojson'
   ];

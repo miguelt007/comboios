@@ -30,27 +30,34 @@
 
   var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Função para criar marcador quadrado vermelho
-  function createMarker(latlng, name) {
+  // Função para criar marcador quadrado azul e mostrar todas as propriedades
+  function createMarker(latlng, properties) {
+    let popupContent = '<b>' + (properties.name || 'Sem nome') + '</b><br>';
+    for (let key in properties) {
+      if (key !== 'name') {
+        popupContent += `<b>${key}:</b> ${properties[key]}<br>`;
+      }
+    }
+
     return L.marker(latlng, {
       icon: L.divIcon({
         className: 'train-icon',
-        html: '<div style="width:8px; height:8px; background:red;"></div>',
+        html: '<div style="width:8px; height:8px; background:blue;"></div>',
         iconSize: [8, 8],
         iconAnchor: [4, 4],
         popupAnchor: [0, -4]
       })
-    }).bindPopup(name).addTo(stationsLayerGroup);
+    }).bindPopup(popupContent).addTo(stationsLayerGroup);
   }
 
-  // Carregar estações (GeoJSON de pontos do Overpass)
+  // Carregar estações (GeoJSON de pontos)
   fetch('estacoes-ferroviarias-pontos.geojson')
     .then(res => res.json())
     .then(data => {
       data.features.forEach(feature => {
         const coords = feature.geometry.coordinates;
         const latlng = [coords[1], coords[0]];
-        createMarker(latlng, feature.properties.name);
+        createMarker(latlng, feature.properties);
       });
 
       // Pesquisa
@@ -64,7 +71,7 @@
       });
       map.addControl(searchControl);
     })
-    .catch(err => console.error('Erro a carregar estacoes:', err));
+    .catch(err => console.error('Erro a carregar estações:', err));
 
   // Linhas ferroviárias
   fetch('linhas-ferroviarias.geojson')

@@ -4,23 +4,55 @@
     "Desiggrupo": "Estação",
     "Estado": "Com Exploração",
     "latitude": 38.7169,
-    "longitude": -9.1231,
-    "mapa": "https://www.google.com/maps?q=38.7169,-9.1231"
+    "longitude": -9.1231
   },
   {
     "Designação": "Lisboa - Oriente",
     "Desiggrupo": "Estação",
     "Estado": "Com Exploração",
-    "latitude": 38.7679,
-    "longitude": -9.0994,
-    "mapa": "https://www.google.com/maps?q=38.7679,-9.0994"
+    "latitude": 38.7676,
+    "longitude": -9.0992
+  },
+  {
+    "Designação": "Sacavém",
+    "Desiggrupo": "Apeadeiro",
+    "Estado": "Com Exploração",
+    "latitude": 38.7939,
+    "longitude": -9.1023
+  },
+  {
+    "Designação": "Bobadela",
+    "Desiggrupo": "Estação",
+    "Estado": "Com Exploração",
+    "latitude": 38.8136,
+    "longitude": -9.0961
+  },
+  {
+    "Designação": "Santa Iria",
+    "Desiggrupo": "Apeadeiro",
+    "Estado": "Com Exploração",
+    "latitude": 38.8325,
+    "longitude": -9.0836
+  },
+  {
+    "Designação": "Póvoa",
+    "Desiggrupo": "Apeadeiro",
+    "Estado": "Com Exploração",
+    "latitude": 38.8474,
+    "longitude": -9.0622
   },
   {
     "Designação": "Alverca",
     "Desiggrupo": "Estação",
     "Estado": "Com Exploração",
     "latitude": 38.9003,
-    "longitude": -9.0381,
-    "mapa": "https://www.google.com/maps?q=38.9003,-9.0381"
+    "longitude": -9.0381
+  },
+  {
+    "Designação": "Vila Franca de Xira",
+    "Desiggrupo": "Estação",
+    "Estado": "Com Exploração",
+    "latitude": 38.9552,
+    "longitude": -8.9894
   }
 ]

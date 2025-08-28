@@ -2,19 +2,86 @@
   {
     "Designação": "Cais do Sodré",
     "latitude": 38.70644,
-    "longitude": -9.14463,
-    "mapa": "https://www.google.com/maps?q=38.70644,-9.14463"
+    "longitude": -9.14463
+  },
+  {
+    "Designação": "Santos",
+    "latitude": 38.70764,
+    "longitude": -9.15356
+  },
+  {
+    "Designação": "Alcântara-Mar",
+    "latitude": 38.70331,
+    "longitude": -9.16529
+  },
+  {
+    "Designação": "Belém",
+    "latitude": 38.69561,
+    "longitude": -9.20613
+  },
+  {
+    "Designação": "Pedrouços",
+    "latitude": 38.69332,
+    "longitude": -9.21718
   },
   {
     "Designação": "Algés",
     "latitude": 38.69544,
-    "longitude": -9.22962,
-    "mapa": "https://www.google.com/maps?q=38.69544,-9.22962"
+    "longitude": -9.22962
+  },
+  {
+    "Designação": "Cruz Quebrada",
+    "latitude": 38.70034,
+    "longitude": -9.24172
+  },
+  {
+    "Designação": "Caxias",
+    "latitude": 38.69563,
+    "longitude": -9.26057
+  },
+  {
+    "Designação": "Paço de Arcos",
+    "latitude": 38.69336,
+    "longitude": -9.27313
+  },
+  {
+    "Designação": "Santo Amaro",
+    "latitude": 38.69114,
+    "longitude": -9.28531
+  },
+  {
+    "Designação": "Oeiras",
+    "latitude": 38.69031,
+    "longitude": -9.29721
+  },
+  {
+    "Designação": "São Julião da Barra",
+    "latitude": 38.69112,
+    "longitude": -9.30941
+  },
+  {
+    "Designação": "Carcavelos",
+    "latitude": 38.69174,
+    "longitude": -9.32063
+  },
+  {
+    "Designação": "Parede",
+    "latitude": 38.69334,
+    "longitude": -9.33421
+  },
+  {
+    "Designação": "São Pedro do Estoril",
+    "latitude": 38.69501,
+    "longitude": -9.34783
+  },
+  {
+    "Designação": "Estoril",
+    "latitude": 38.69723,
+    "longitude": -9.36721
   },
   {
     "Designação": "Cascais",
     "latitude": 38.70084,
-    "longitude": -9.41847,
-    "mapa": "https://www.google.com/maps?q=38.70084,-9.41847"
+    "longitude": -9.41847
   }
 ]

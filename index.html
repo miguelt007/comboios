@@ -37,11 +37,11 @@
 
   // Ícone simples de comboio (PNG)
   var trainIcon = L.icon({
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/61/61088.png',
-    iconSize: [30, 30],
-    iconAnchor: [15, 30],
-    popupAnchor: [0, -30]
-  });
+  iconUrl: 'train.png',  // caminho local
+  iconSize: [30, 30],
+  iconAnchor: [15, 30],
+  popupAnchor: [0, -30]
+});
 
   // Carregar estações
   fetch('estacoes-ferroviarias.geojson')

@@ -19,6 +19,7 @@
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet-search/dist/leaflet-search.min.js"></script>
+<script src="https://unpkg.com/@turf/turf/turf.min.js"></script>
 
 <script>
   var map = L.map('map').setView([39.5, -8], 7);
@@ -30,7 +31,7 @@
 
   var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Função para criar marcador quadrado pequeno
+  // Função para criar marcador quadrado
   function createMarker(latlng, name) {
     return L.marker(latlng, {
       icon: L.divIcon({
@@ -43,26 +44,17 @@
     }).bindPopup(name).addTo(stationsLayerGroup);
   }
 
-  // Carregar estações
+  // Carregar estações usando Turf.js para garantir ponto central
   fetch('estacoes-ferroviarias.geojson')
     .then(res => res.json())
     .then(data => {
       data.features.forEach(feature => {
-        let latlng;
-
-        if (feature.geometry.type === 'Point') {
-          latlng = [feature.geometry.coordinates[1], feature.geometry.coordinates[0]];
-        } else if (feature.geometry.type === 'LineString') {
-          latlng = [feature.geometry.coordinates[0][1], feature.geometry.coordinates[0][0]];
-        } else if (feature.geometry.type === 'Polygon') {
-          latlng = [feature.geometry.coordinates[0][0][1], feature.geometry.coordinates[0][0][0]];
-        }
-
-        if(latlng) {
-          createMarker(latlng, feature.properties.name);
-        }
+        const center = turf.centroid(feature).geometry.coordinates;
+        const latlng = [center[1], center[0]];
+        createMarker(latlng, feature.properties.name);
       });
 
+      // Pesquisa
       var searchControl = new L.Control.Search({
         layer: stationsLayerGroup,
         propertyName: 'name',

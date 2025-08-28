@@ -35,16 +35,16 @@
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  // Ícone de comboio em PNG (corrigido)
+  // Ícone simples de comboio (PNG)
   var trainIcon = L.icon({
-    iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Train_font_awesome.svg/64px-Train_font_awesome.svg.png',
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/61/61088.png',
     iconSize: [30, 30],
     iconAnchor: [15, 30],
     popupAnchor: [0, -30]
   });
 
   // Carregar estações
-  fetch('estacoes-ferroviarias-portugal.geojson')
+  fetch('estacoes-ferroviarias.geojson')
     .then(res => res.json())
     .then(data => {
       var stationsLayer = L.geoJSON(data, {
@@ -68,10 +68,8 @@
       map.addControl(searchControl);
     });
 
-  // Linhas ferroviárias (apenas um bloco)
-  var blocos = [
-    'linhas-ferroviarias.geojson'
-  ];
+  // Linhas ferroviárias (um bloco)
+  var blocos = ['linhas-ferroviarias.geojson'];
 
   blocos.forEach(function(file) {
     fetch(file)

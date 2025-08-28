@@ -42,6 +42,7 @@
     popupAnchor: [0, -30]
   });
 
+  // Carregar estações
   fetch('estacoes-ferroviarias-portugal.geojson')
     .then(res => res.json())
     .then(data => {
@@ -54,6 +55,7 @@
         }
       }).addTo(map);
 
+      // Adicionar pesquisa
       var searchControl = new L.Control.Search({
         layer: stationsLayer,
         propertyName: 'name',
@@ -65,13 +67,21 @@
       map.addControl(searchControl);
     });
 
-  fetch('linhas-ferroviarias-portugal.geojson')
-    .then(res => res.json())
-    .then(data => {
-      L.geoJSON(data, {
-        style: { color: 'red', weight: 2 }
-      }).addTo(map);
-    });
+  // Linhas ferroviárias por blocos
+  var blocos = [
+    'linhas-norte.geojson',
+    'linhas-centro.geojson',
+    'linhas-lisboa-tejo.geojson',
+    'linhas-sul-algarve.geojson'
+  ];
+
+  blocos.forEach(function(file) {
+    fetch(file)
+      .then(res => res.json())
+      .then(data => {
+        L.geoJSON(data, { style: { color: 'red', weight: 2 } }).addTo(map);
+      });
+  });
 </script>
 
 </body>

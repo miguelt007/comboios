@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Estações e Linhas Ferroviárias de Portugal (OSM)</title>
+  <title>Estações e Linhas Ferroviárias de Portugal (OSM Completo)</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet-search/dist/leaflet-search.min.css" />
   <style>
@@ -30,7 +30,7 @@
 
   var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Marcadores quadrados azuis para as estações
+  // Marcadores quadrados azuis e popup com todas as propriedades
   function createMarker(latlng, properties) {
     let popupContent = '<b>' + (properties.name || 'Sem nome') + '</b><br>';
     for (let key in properties) {
@@ -38,6 +38,7 @@
         popupContent += `<b>${key}:</b> ${properties[key]}<br>`;
       }
     }
+
     return L.marker(latlng, {
       icon: L.divIcon({
         className: 'train-icon',
@@ -49,7 +50,7 @@
     }).bindPopup(popupContent).addTo(stationsLayerGroup);
   }
 
-  // Carregar estações (GeoJSON de pontos)
+  // Carregar estações (GeoJSON atualizado do Overpass)
   fetch('estacoes-ferroviarias-pontos.geojson')
     .then(res => res.json())
     .then(data => {
@@ -72,7 +73,7 @@
     })
     .catch(err => console.error('Erro a carregar estações:', err));
 
-  // Linhas ferroviárias via Overpass API (OSM)
+  // Linhas ferroviárias via Overpass OSM
   fetch('https://overpass-api.de/api/interpreter', {
     method: 'POST',
     body: `[out:json][timeout:50];
@@ -84,7 +85,6 @@
   })
   .then(res => res.json())
   .then(data => {
-    // Converter resultados Overpass para GeoJSON
     const lines = data.elements.filter(el => el.type === 'way' && el.geometry).map(el => {
       return {
         type: "Feature",

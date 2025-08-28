@@ -14,15 +14,13 @@
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
-    // Inicializar o mapa
-    const map = L.map('map').setView([39.5, -8.0], 7);
+    const map = L.map('map').setView([39.5, -8.0], 7); // Centro de Portugal
 
-    // Camada base
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    // Ícone para Estações (azul)
+    // Ícone azul para Estações
     const iconeEstacao = L.icon({
       iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
       shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
@@ -32,7 +30,7 @@
       shadowSize: [41, 41]
     });
 
-    // Ícone para Apeadeiros (verde)
+    // Ícone verde para Apeadeiros
     const iconeApeadeiro = L.icon({
       iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
       shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
@@ -42,19 +40,22 @@
       shadowSize: [41, 41]
     });
 
-    // Carregar dados do JSON
-    fetch('https://raw.githubusercontent.com/miguelt007/comboios/main/estacoes.json')
+    // Carregar o novo ficheiro com coordenadas
+    fetch('https://raw.githubusercontent.com/miguelt007/comboios/main/estacoes_com_coords.json')
       .then(response => response.json())
       .then(data => {
         data.forEach(ponto => {
-          const icone = ponto.tipo.toLowerCase() === 'estação' ? iconeEstacao : iconeApeadeiro;
-          const marcador = L.marker([ponto.latitude, ponto.longitude], { icon: icone }).addTo(map);
-          marcador.bindPopup(`
-            <strong>${ponto.nome}</strong><br>
-            Tipo: ${ponto.tipo}<br>
-            Linha: ${ponto.linha || 'N/A'}<br>
-            Código: ${ponto.codigo || 'N/A'}
-          `);
+          if (ponto.latitude && ponto.longitude) {
+            const icone = ponto.Desiggrupo === 'Estação' ? iconeEstacao : iconeApeadeiro;
+            const marcador = L.marker([ponto.latitude, ponto.longitude], { icon: icone }).addTo(map);
+            marcador.bindPopup(`
+              <strong>${ponto.Designação}</strong><br>
+              Tipo: ${ponto.Desiggrupo}<br>
+              Linha: ${ponto["Designação Linha"]}<br>
+              Município: ${ponto.Município}<br>
+              Distrito: ${ponto.Distrito}
+            `);
+          }
         });
       })
       .catch(error => console.error('Erro ao carregar o JSON:', error));

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Estações e Linhas Ferroviárias de Portugal</title>
+  <title>Estações e Linhas Ferroviárias de Portugal (OSM)</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet-search/dist/leaflet-search.min.css" />
   <style>
@@ -30,7 +30,7 @@
 
   var stationsLayerGroup = L.layerGroup().addTo(map);
 
-  // Função para criar marcador quadrado azul e mostrar todas as propriedades
+  // Marcadores quadrados azuis para as estações
   function createMarker(latlng, properties) {
     let popupContent = '<b>' + (properties.name || 'Sem nome') + '</b><br>';
     for (let key in properties) {
@@ -38,7 +38,6 @@
         popupContent += `<b>${key}:</b> ${properties[key]}<br>`;
       }
     }
-
     return L.marker(latlng, {
       icon: L.divIcon({
         className: 'train-icon',
@@ -73,13 +72,33 @@
     })
     .catch(err => console.error('Erro a carregar estações:', err));
 
-  // Linhas ferroviárias
-  fetch('linhas-ferroviarias.geojson')
-    .then(res => res.json())
-    .then(data => {
-      L.geoJSON(data, { style: { color: 'red', weight: 2 } }).addTo(map);
-    })
-    .catch(err => console.error('Erro a carregar linhas:', err));
+  // Linhas ferroviárias via Overpass API (OSM)
+  fetch('https://overpass-api.de/api/interpreter', {
+    method: 'POST',
+    body: `[out:json][timeout:50];
+      area["ISO3166-1"="PT"]->.a;
+      (
+        way["railway"="rail"](area.a);
+      );
+      out geom;`
+  })
+  .then(res => res.json())
+  .then(data => {
+    // Converter resultados Overpass para GeoJSON
+    const lines = data.elements.filter(el => el.type === 'way' && el.geometry).map(el => {
+      return {
+        type: "Feature",
+        properties: el.tags || {},
+        geometry: {
+          type: "LineString",
+          coordinates: el.geometry.map(p => [p.lon, p.lat])
+        }
+      };
+    });
+
+    L.geoJSON(lines, { style: { color: 'red', weight: 2 } }).addTo(map);
+  })
+  .catch(err => console.error('Erro a carregar linhas OSM:', err));
 </script>
 
 </body>

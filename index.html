@@ -1,147 +1,34 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-PT">
 <head>
-  <meta charset="UTF-8">
-  <title>Mapa de Estações e Apeadeiros</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Estações Ferroviárias de Portugal</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <style>
-    body { margin: 0; font-family: sans-serif; }
-    #map { height: 100vh; }
-
-    .titulo-mapa {
-      position: absolute;
-      top: 10px;
-      left: 50%;
-      transform: translateX(-50%);
-      background: rgba(255, 255, 255, 0.9);
-      padding: 10px 20px;
-      font-size: 20px;
-      font-weight: bold;
-      border-radius: 6px;
-      box-shadow: 0 0 5px rgba(0,0,0,0.3);
-      z-index: 1000;
-    }
-
-    .filtro {
-      position: absolute;
-      top: 60px;
-      left: 10px;
-      background: white;
-      padding: 10px;
-      border-radius: 6px;
-      box-shadow: 0 0 5px rgba(0,0,0,0.3);
-      z-index: 1000;
-    }
-
-    .legenda {
-      position: absolute;
-      bottom: 10px;
-      right: 10px;
-      background: white;
-      padding: 10px;
-      border-radius: 6px;
-      box-shadow: 0 0 5px rgba(0,0,0,0.3);
-      z-index: 1000;
-    }
-
-    .legenda img {
-      vertical-align: middle;
-      margin-right: 5px;
-    }
+    #map { height: 100vh; margin: 0; }
   </style>
 </head>
 <body>
-  <div class="titulo-mapa">Mapa de Estações e Apeadeiros</div>
   <div id="map"></div>
-
-  <div class="filtro">
-    <label><input type="checkbox" id="estacoes" checked> Estações</label><br>
-    <label><input type="checkbox" id="apeadeiros" checked> Apeadeiros</label>
-  </div>
-
-  <div class="legenda">
-    <div><img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png" width="20"> Estação</div>
-    <div><img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png" width="20"> Apeadeiro</div>
-  </div>
-
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
-    const map = L.map('map').setView([39.5, -8.0], 7);
+    var map = L.map('map').setView([39.5, -8], 7);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '© OpenStreetMap contributors'
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
-    const iconeEstacao = L.icon({
-      iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
-      shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
-      iconSize: [25, 41],
-      iconAnchor: [12, 41],
-      popupAnchor: [1, -34],
-      shadowSize: [41, 41]
-    });
-
-    const iconeApeadeiro = L.icon({
-      iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
-      shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
-      iconSize: [25, 41],
-      iconAnchor: [12, 41],
-      popupAnchor: [1, -34],
-      shadowSize: [41, 41]
-    });
-
-    const marcadoresEstacao = [];
-    const marcadoresApeadeiro = [];
-
-    fetch('https://raw.githubusercontent.com/miguelt007/comboios/main/estacoes_com_coords.json')
+    fetch('estacoes-ferroviarias-portugal.geojson')
       .then(response => response.json())
       .then(data => {
-        data.forEach(ponto => {
-          if (ponto.latitude && ponto.longitude) {
-            const icone = ponto.Desiggrupo === 'Estação' ? iconeEstacao : iconeApeadeiro;
-            const marcador = L.marker([ponto.latitude, ponto.longitude], { icon: icone });
-            marcador.bindPopup(`
-              <strong>${ponto.Designação}</strong><br>
-              Tipo: ${ponto.Desiggrupo}<br>
-              Linha: ${ponto["Designação Linha"]}<br>
-              Município: ${ponto.Município}<br>
-              Distrito: ${ponto.Distrito}
-            `);
-
-            if (ponto.Desiggrupo === 'Estação') {
-              marcadoresEstacao.push(marcador);
-            } else {
-              marcadoresApeadeiro.push(marcador);
-            }
+        L.geoJSON(data, {
+          onEachFeature: function (feature, layer) {
+            layer.bindPopup(feature.properties.name);
           }
-        });
-
-        atualizarMarcadores();
+        }).addTo(map);
       });
-
-    function atualizarMarcadores() {
-      const mostrarEstacoes = document.getElementById('estacoes').checked;
-      const mostrarApeadeiros = document.getElementById('apeadeiros').checked;
-
-      marcadoresEstacao.forEach(m => {
-        if (mostrarEstacoes) {
-          m.addTo(map);
-        } else {
-          map.removeLayer(m);
-        }
-      });
-
-      marcadoresApeadeiro.forEach(m => {
-        if (mostrarApeadeiros) {
-          m.addTo(map);
-        } else {
-          map.removeLayer(m);
-        }
-      });
-    }
-
-    document.getElementById('estacoes').addEventListener('change', atualizarMarcadores);
-    document.getElementById('apeadeiros').addEventListener('change', atualizarMarcadores);
   </script>
 </body>
 </html>
